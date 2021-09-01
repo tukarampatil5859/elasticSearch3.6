@@ -1,0 +1,575 @@
+Sr._No.,KYC_Attributes,Surname,Name,Father_Name,Mother_Name,Spouse_Name,Date_of_Birth,Gender,Blood_Group,Home_Address,Office_Address,Communication_Address,PAN_no,Aadhar_no,Passport_no,BankAcDetails,CreditCard,Mobile_No,Email_Id,Nationality,Voter_Card_ID,DL,year_of_Birth,Age
+1,Pan,,Raamcharan Yadav,Gopaldas Yadav,Sundari Devi Yadav,Meenakshi Yadav,1978-11-21,Male,,House No  10  Narayana Nagar  Gaziyabad   110093 Uttar Pradesh,,"House No. 10, Narayana Nagar, Gaziyabad - 110093 UP",ABCDE1234F,123456789101,0,0,,0,,Indian,,,1978,43
+2,Pan,,Sheetal Garade,Sudhri Garade,Sumati Garade,Vishal More,1981-04-10,Female,,Flat No  181  Arvind Apartment  Pimple Gurav  Pune   411005 Maharashtra,,"Flat No. 181, Arvind Apartment, Pimple Gurav, Pune - 411005",ACEGI14321K,101998754321,0,0,,0,,Indian,,,1981,40
+3,Pan,,Bhushan Jadhav,Gangadhar Jadhav,Subhadra Jadhav,Ashwini Jadhav,1976-12-20,Male,,177  Rajas Society  Katraj  Pune   411046 Maharashtra,,"177, Rajas Society, Katraj, Pune - 411046",AEMPJ5584L,937257034246,0,0,,0,,Indian,,,1976,45
+4,Pan,,Ramadugula Sita Mahalakshmi,Kakaraparthy Sreeram Murthy,Kakaraparthy Tripura Sundari,Ramadugula Venkat Surya,1959-09-23,Female,,H  No  1 6 212/64/22  West Parsigutta  Hyderabad 500020 Andhra Pradesh,,"H. No. 1-6-212/64/22, West Parsigutta, Hyderabad 500020 AP",ABCDE4321F,102030405060,0,0,,0,,Indian,,,1959,62
+5,Pan,,Dinesh Yadav,Ram Yadav,Seeta Yadav,Vinesh Yadav,1990-09-21,Male,,House No  25  Neelaya Society  Auto Market  Hisar   125001 Haryana,,"House No. 25, Neelaya Society, Auto Market, Hisar - 125001 Haryana",APCPB6666G,605040302010,0,0,,0,,Indian,,,1990,31
+6,Pan,,Ramcharan Yadav,Gopal Yadav,Sundari Yadav,Lakshmi Yadav,1977-11-22,Male,,House No  101  Subhash Nagar  Gaziyabad   110090 Uttar Pradesh,,"House No. 101, Subhash Nagar, Gaziyabad - 110090 Uttar Pradesh",ABCDE4285F,253035455565,0,0,,0,,Indian,,,1977,44
+7,Pan,,Sheetal Garade,Subhash Garade,Sukanya Garade,Aniket More,1981-05-10,Female,,Flat No  181  Komal Apartment  Kasba Peth  Pune   411006 Maharashtra,,"Flat No. 181, Komal Apartment, Kasba Peth, Pune - 411006 Maharashtra",ACEGI5555K,303540455060,0,0,,0,,Indian,,,1981,40
+8,Pan,,Bhushan Jadhav,Gangadhar Jadhav,Parvati Jadhav,Ashwini Jadhav,1978-12-20,Male,,Flat No  177  Rajas Society  Mulund  Mumbai   410026 Maharashtra,,"Flat No. 177, Rajas Society, Mulund, Mumbai - 410026 Maharashtra",AEMPJ5556L,313233343536,0,0,,0,,Indian,,,1978,43
+9,Pan,,Ramadugula Seeta Mahalakshmi,Sreeram Murthy,Tripura Sundari,Ramadugula Suryakumar,1980-09-23,Female,,H  No  16/22  East Parsigutta  Hyderabad 500021 Andhra Pradesh,,"H. No. 16/22, East Parsigutta, Hyderabad 500021 Andhra Pradesh",ABCDE4444F,373839404142,0,0,,0,,Indian,,,1980,41
+10,Pan,,Dinesh Yadav,Ramnivas Yadav,Bhanwari Devi Yadav,,1985-10-21,Male,,Flat No  25  Hisar Colony  Sadar Market  Hisar   125003 Haryana,,"Flat No. 25, Hisar Colony, Sadar Market, Hisar - 125003 Haryana",APCPB4546G,434445464748,0,0,,0,,Indian,,,1985,36
+11,Pan,,Peeyush Nijasure,Naresh,Narayani,Lekha,1992-10-25,Male,,204   Trimurti Bldg  Comercial Centre  New Friends Colony  Delhi 110065  Delhi,,"204 , Trimurti Bldg, Comercial Centre, New Friends Colony, Delhi 110065, Delhi",AJCJB8455D,212223242517,0,0,,0,,,,,1992,29
+12,Pan,,Sayana Muzumdar,Harsh,Maya,Ankit,1998-05-21,Female,,Sf 2  Gf/4  Innova House  Opp Brahman Sabha Hall  Dandia Bazar   Vadodara   390001  Gujarat,,"Sf 2, Gf/4, Innova House, Opp Brahman Sabha Hall, Dandia Bazar,  Vadodara - 390001, Gujarat",APTEA8855F,222324252618,0,0,,0,,,,,1998,23
+13,Pan,,Rishu Vaknis,Radheya,Sneha,Mangesh,1981-08-19,Female,,Opp To Khemani High School  Ulhasnagar   Mumbai   421002  Maharashtra,,"Opp To Khemani High School, Ulhasnagar,  Mumbai - 421002, Maharashtra",AJAKH1285B,251918181717,0,0,,0,,,,,1981,40
+14,Pan,,Pandu Heravdakar,Gopal,Parvati,Pritam,1981-03-11,Male,,F 2  248 250  L N Complex  1st Floor  Behind Lal Building  Old Taragupet  Bangalore   560053  Karnataka,,"F-2, 248-250, L N Complex, 1st Floor, Behind Lal Building, Old Taragupet, Bangalore - 560053, Karnataka",ABDCM3335C,202021212220,0,0,,0,,,,,1981,40
+15,Pan,,Pranav Marwah,Rajveer,Tejal,Poonam,1980-08-31,Male,,C 23/2  Goyal Business Center  Connaught Place  Delhi   110001  Delhi,,"C-23/2, Goyal Business Center, Connaught Place, Delhi - 110001, Delhi",ACGGC1254B,181920212218,0,0,,0,,,,,1980,41
+16,Pan,,Sooraj Punja,Aalok,Sunayna,Nilima,1985-01-24,Male,,Yashoda Kunj  Road No 1  Opp Natraj Cenema  Chembur  Mumbai   400071  Maharashtra,,"Yashoda Kunj, Road No 1, Opp Natraj Cenema, Chembur, Mumbai - 400071, Maharashtra",BCDAY5287R,321569857415,0,0,,0,,,,,1985,36
+17,Pan,,Amar Gurnani,Shankar,Jayalakshmi,Saumya,1990-08-19,Male,,4 raja Woodmunt Street  Kolkata   700001  West Bengal,,"4,raja Woodmunt Street, Kolkata - 700001, West Bengal",AGARE1329H,989796959485,0,0,,0,,,,,1990,31
+18,Pan,,Prem Padagavakar,Jaikishan,Jaya,Pooja,1980-07-07,Male,,VRG Complex  Opp to Court  Sathy Main Rd  Gobichettiapalayam  Erode   638476  Tamil Nadu,,"VRG Complex, Opp to Court, Sathy Main Rd, Gobichettiapalayam, Erode - 638476, Tamil Nadu",AVAVQ2143P,959697989176,0,0,,0,,,,,1980,41
+19,Pan,,Sunder Banahatti,Vinayak,Rajlakshmi,Nitya,1980-06-05,Male,,39 A  Rajlaxmi Complex  Old Padra Road  Vadodara   390015  Gujarat,,"39-A, Rajlaxmi Complex, Old Padra Road, Vadodara - 390015, Gujarat",APCTR3220R,352724262835,0,0,,0,,,,,1980,41
+20,Pan,,Jwala Chadda,Jaikishan,Nidhi,Vijay,1988-06-25,Female,,23  Siddhi Vinayak Shopping Centre  Achole Rd  Nalasopara(e)  Mumbai   401209  Maharashtra,,"23, Siddhi Vinayak Shopping Centre, Achole Rd, Nalasopara(e), Mumbai - 401209, Maharashtra",CBCBA7541E,167974757316,0,0,,0,,,,,1988,33
+21,Pan,,Peeyush Nijasure,Narayan,Lakshmi,Purvi,1990-10-25,Male,,Flat No  28  Suvarna Apartment  Mahim  Mumbai   400111 Maharashtra,,"Flat No. 28, Suvarna Apartment, Mahim, Mumbai - 400111 Maharashtra",AEMPJ8455L,212223242526,0,0,,0,,,,,1990,31
+22,Pan,,Sayana Muzumdar,Harish,Harshita,Aniket,1998-02-21,Female,,Flat No  104  Suvarnashilp  Apartment  Bandra  Mumbai   400113 Maharashtra,,"Flat No. 104, Suvarnashilp  Apartment, Bandra, Mumbai - 400113 Maharashtra",JPMEA8455L,222324252627,0,0,,0,,,,,1998,23
+23,Pan,,Rishu Vaknis,Anshul,Bhargavi,Manish,1980-07-18,Female,,House No  3  Rajas Society  Katraj  Pune   411046  Maharashtra,,"House No. 3, Rajas Society, Katraj, Pune - 411046, Maharashtra",AJAKH1243B,191918181717,0,0,,0,,,,,1980,41
+24,Pan,,Pandu Heravdakar,Sopan,Parvati,Poonam,1985-03-13,Male,,House No  75  Mahakaleshwar Society  Ujjain   456006  Madhya Pradesh,,"House No. 75, Mahakaleshwar Society, Ujjain - 456006, Madhya Pradesh",ABCPB3336G,202021212222,0,0,,0,,,,,1985,36
+25,Pan,,Pranav Marwah,Himmat,Sejal,Pankaja,1981-08-31,Male,,74 /  Safex Centre  Poona Street  Masjid Bunder (east)  Mumbai   400009  Maharashtra,,"74 /, Safex Centre, Poona Street, Masjid Bunder (east), Mumbai - 400009, Maharashtra",AGAGC1234A,181920212223,0,0,,0,,,,,1981,40
+26,Pan,,Sooraj Punja,Aditya,Purva,Sunayna,1979-01-26,Male,,Crossing  Nazirabad  Kaiserbagh   Lucknow   226012  Uttar Pradesh,,"Crossing, Nazirabad, Kaiserbagh,  Lucknow - 226012, Uttar Pradesh",ACACG5287F,321569857412,0,0,,0,,,,,1979,42
+27,Pan,,Amar Gurnani,Ajay,Uma,Sukanya,1984-08-15,Male,,GS Rd  Ganeshguri Chariali  Nr Beekay Tower   Guwahati   781006  Assam,,"GS Rd, Ganeshguri Chariali, Nr Beekay Tower,  Guwahati - 781006, Assam",ARARE1324G,989796959493,0,0,,0,,,,,1984,37
+28,Pan,,Prem Padagavakar,Atul,Maya,Samrudhi,1979-09-07,Male,,520  B   Ludhiana   141002  Punjab,,"520  B,  Ludhiana - 141002, Punjab",AWAWQ2143R,959697989192,0,0,,0,,,,,1979,42
+29,Pan,,Sunder Banahatti,Shankar,Jayalakshmi,Saumya,1985-02-05,Male,,41   Trimurti Bldg  Comercial Centre  New Friends Colony  Delhi 110065  Delhi,,"41 , Trimurti Bldg, Comercial Centre, New Friends Colony, Delhi 110065, Delhi",AQAWR3214Q,252724262829,0,0,,0,,,,,1985,36
+30,Pan,,Jwala Chadda,Jaikishan,Jaya,Vishal,1989-06-25,Female,,Flat No  144  Sejal Arcade  Malad  Mumbai   400007  Maharashtra,,"Flat No. 144, Sejal Arcade, Malad, Mumbai - 400007, Maharashtra",ABABC7532D,787974757376,0,0,,0,,,,,1989,32
+31,Pan,,Aaloak Sunder,Biren Sunder,Aarti Sunder,Nikita Sunder,1978-11-20,Male,,19  Hrishikesh Society  RadhaPur Ranchi   296512  Jharkhand,,"19, Hrishikesh Society, RadhaPur Ranchi - 296512, Jharkhand",AASRC3214Q,123456889010,0,0,,0,,Indian,,,1978,43
+32,Pan,,AR Sunder,Rajpal Sunder,Kirti Sunder,,1980-11-20,Male,,19  Hrishikesh Society  RadhaPur  Udaipur   165226  Rajasthan,,"19, Hrishikesh Society, RadhaPur, Udaipur - 165226, Rajasthan",AASRC4532Q,123456881010,0,0,,9800000010,,Indian,,,1980,41
+33,Pan,,Aarav Basak,Tarun Basak,Urvashi Basak,Alka Basak,1990-10-22,Male,,97  Radhika Nagar  Rajkot   307271  Gujarat,,"97, Radhika Nagar, Rajkot - 307271, Gujarat",SKGKW7532D,227111334455,0,0,,0,,Indian,,,1990,31
+34,Pan,,Aarav AS Basak,Arun Basak,Sharvari Basak,Anjana Basak,1991-10-05,Male,,97  Radhika Nagar  Bikaner   349205  Rajasthan,,"97, Radhika Nagar, Bikaner - 349205, Rajasthan",KSWGK3215D,147111034402,0,0,,0,,Indian,,,1991,30
+35,Pan,,Abhay Agarwal,Pran Agarwal,Nilam Agarwal,Abha Agarwal,1981-08-28,Male,,Abids  Tilak Road  Hyderabad  500001  Andhra Pradesh,,"Abids, Tilak Road, Hyderabad, 500001, Andhra Pradesh",CDGFH1243B,666554332211,0,0,,0,,Indian,,,1981,40
+36,Pan,,Abhay Agarwal,Praveen Agarwal,Sunita Agarwal,Aabha Agarwal,1979-08-29,Male,,Abids  Tilak Road  Shadipur  New Delhi  110008 New Delhi,,"Abids, Tilak Road, Shadipur, New Delhi, 110008,New Delhi",CDGFH4322P,664553342211,0,0,,0,,Indian,,,1979,42
+37,Pan,,Alisha Purohit,Jai Chaudhari,Aruna Chaudhari,Aniket Purohit,1979-10-20,Female,,Sai Vandan Apt Nr Lokmanya Bus Depot  Gala No 9 Davale Nagar  Jekegram  Mumbai  400606  Maharashtra,,"Sai Vandan Apt Nr Lokmanya Bus Depot, Gala No.9 Davale Nagar, Jekegram, Mumbai, 400606, Maharashtra",COEPE1234F,201022405060,0,0,,0,,Indian,,,1979,42
+38,Pan,,Alisha Purohit,Jai Patnaik,Aruna Patnaik,Ankit Purohit,1982-10-20,Female,,Sai Vandan Apt Nr Lokmanya Bus Depot  Wazirpur  Delhi  110052  Delhi,,"Sai Vandan Apt Nr Lokmanya Bus Depot, Wazirpur, Delhi, 110052, Delhi",COEPE3234F,0,0,0,,0,,Indian,,,1982,39
+39,Pan,,Amar Gurnani,Shankar,Jayalakshmi,Saumya,1990-08-19,Male,,4 raja Woodmunt Street  Kolkata   700001  West Bengal,,"4,raja Woodmunt Street, Kolkata - 700001, West Bengal",AGARE1329H,989796959485,0,0,,0,,Indian,,,1990,31
+40,Pan,,Amar Gurnani,Ajay,Uma,,1984-08-15,Male,,GS Rd  Ganeshguri Chariali  Nr Beekay Tower   Guwahati   781006  Assam,,"GS Rd, Ganeshguri Chariali, Nr Beekay Tower,  Guwahati - 781006, Assam",ARARE1324G,989796959493,0,0,,0,,Indian,,,1984,37
+41,Pan,,Amrita Ranganathan,Sivakumar Subramanian,Lakshmi Subramanian,Amrut,1985-02-05,Female,,11  Uttaradimuttrd nrnationalcllge  Basavanagudi  Banglore 560004  Karnataka,,"11, Uttaradimuttrd,nrnationalcllge, Basavanagudi, Banglore 560004, Karnataka",AQHWR3214Q,899091929394,0,0,,7845424154,,Indian,,,1985,36
+42,Pan,,Amrita Ranganathan,Sivakumar Iyer,Lakshmi Iyer,Arindam Ranganathan,1984-02-05,Female,,11  Uttaradimuttrd nrnationalcllge  Basavanagudi  Kottayam 686001  Kerala,,"11, Uttaradimuttrd,nrnationalcllge, Basavanagudi, Kottayam 686001, Kerala",AQHWR1819Q,899091929395,0,0,,0,,Indian,,,1984,37
+43,Pan,,Anand Singh,Lakshmana,Sarojini,Leela Singh,1998-02-21,Male,,1st Floor  18 A  Patel Shopping Center  Sainath Road  Malad(w)  Mumbai  400062  Maharashtra,,"1st Floor, 18 A, Patel Shopping Center, Sainath Road, Malad(w), Mumbai, 400062, Maharashtra",DELPJ5584L,655544332211,0,0,,0,,Indian,,,1998,23
+44,Pan,,Anand Singh,Lakhan,Saroj,Leena Singh,1996-02-21,Male,,1st Floor  18 A  Patel Shopping Center  Jagat Puri  Delhi  110051  Delhi,,"1st Floor, 18 A, Patel Shopping Center, Jagat Puri, Delhi, 110051, Delhi",DEHPJ5584L,655544332215,0,0,,0,,Indian,,,1996,25
+45,Pan,,Malati Brahmbhatt,Mayur Srivastava,Padma Srivastava,Mahesh Brahmbhatt,1984-04-13,Female,,311 d  Nathala Bhavan  L B S Marg  Ghatkopar (west)  Mumbai  400086  MH,,"311-d, Nathala Bhavan, L B S Marg, Ghatkopar (west), Mumbai, 400086, MH",DYBTB8455L,331112245566,0,0,,0,,Indian,,,1984,37
+46,Pan,,Malati Brahmbhatt,Mayuresh Srivastava,Padmavatee Srivastava,Maheshwar Brahmbhatt,1963-04-13,Female,,311 d  Nathala Bhavan  L B S Marg  Ludhiana  160002  Punjab,,"311-d, Nathala Bhavan, L B S Marg, Ludhiana, 160002, Punjab",DYBTA9455L,331111245566,0,0,,0,,Indian,,,1963,58
+47,Pan,,Manjusha Patel,Kailash Kher,Rashmi Kher,Mahesh Patel,1990-07-21,Female,,10/172  G N Mills Pos  Koundampalayam  Coimbatore  641029  TN,,"10/172, G N Mills Pos, Koundampalayam, Coimbatore, 641029, TN",DECNG5584L,655543632211,0,0,,0,,Indian,,,1990,31
+48,Pan,,Manjusha Patel,Kailash Khera,Rashmi Khera,Mangesh Patel,1988-07-21,Female,,10/172  G N Mills Pos  Andheri Kurla Road  Chakala  Andheri  Mumbai  400093  Maharashtra,,"10/172, G N Mills Pos, Andheri Kurla Road, Chakala, Andheri, Mumbai, 400093, Maharashtra",DECNG5684L,655546632211,0,0,,0,,Indian,,,1988,33
+49,Pan,,Manoj Singh,Aalok Singh,Harman Kaur,Arpita Singh,1975-12-31,Male,,21/69  Sea View Terrace  118 B wood House Road  Opp Chiragh Din  Residency Road  Bangalore  560025  Karnataka,,"21/69, Sea View Terrace, 118 B-wood House Road, Opp Chiragh Din, Residency Road, Bangalore, 560025, Karnataka",SKGBC5532D,227711333455,0,0,,0,,Indian,,,1975,46
+50,Pan,,Manoj Singh,Parth,Akanksha,Aparna Singh,1993-10-25,Male,,21  Anand Indl Estate  M S Road  Wagle Estate  Bangalore  560001  Karnataka,,"21, Anand Indl Estate, M S Road, Wagle Estate, Bangalore, 560001, Karnataka",SKQBC7532D,227711334457,0,0,,0,,Indian,,,1993,28
+51,Pan,,Mohandas Bhatia,Abhishek Bhatia,Isha Bhatia,Komal Bhatia,1998-05-21,Male,,130/135  Arnav Apartments  Sec 17  Vashi  Mumbai  400705  Maharashtra,,"130/135, Arnav Apartments, Sec 17, Vashi, Mumbai, 400705, Maharashtra",LCKER7554N,878896888585,0,0,,0,,Indian,,,1998,23
+52,Pan,,Mohandas Bhatia,Abhishek Bhatia,Isha Bhatia,Komal Bhatia,1998-05-21,Male,,521  Arneja Corner Gallery  Sec 17  Kandivali (west)  Mumbai  400067  Maharashtra,,"521, Arneja Corner Gallery, Sec 17, Kandivali (west), Mumbai, 400067, Maharashtra",LCKER8654N,878876868585,0,0,,0,,Indian,,,1998,23
+53,Pan,,Mustafa Narang,Prakash,Indu,Saanvi Narang,1979-09-07,Male,,67/69  Sea View Terrace  118 B wood House Road  Opp Chiragh Din  Colaba  Mumbai  400005  MH,,"67/69, Sea View Terrace, 118 B-wood House Road, Opp Chiragh Din, Colaba, Mumbai, 400005, MH",TRPNJ8743V,0,0,0,,0,,Indian,,,1979,42
+54,Pan,,Mustafa Narang,Vikas,Indumati,Pranjal Narang,1992-09-07,Male,,1  Sea View Terrace  Opp Residency Colony  Bangalore  560025  Karnataka,,"1, Sea View Terrace, Opp Residency Colony, Bangalore, 560025, Karnataka",TRQNJ8743V,898887868583,0,0,,0,,Indian,,,1992,29
+55,Pan,,Naval Dave,Kishor,Kishori,Sneha,1978-11-21,Male,,501  Thacker Tower  Sector 17  Nr Saraswati Co Op Bank  Vashi  Mumbai 400705 MH,,"501, Thacker Tower, Sector 17, Nr Saraswati Co Op Bank, Vashi, Mumbai 400705 MH",AJCDE1234F,111213141516,0,0,,0,,Indian,,,1978,43
+56,Pan,,Naval Dave,Rajan Dave,Revti Dave,Sneha Dave,1980-10-21,Male,,101  T1 Town  Sector 17  Nr Saraswati Co Op Bank  Banglore 560002  Karnataka,,"101, T1 Town, Sector 17, Nr Saraswati Co Op Bank, Banglore 560002, Karnataka",AJCDE1020F,111213141517,0,0,,0,,Indian,,,1980,41
+57,Pan,,Navami Pandey,Anil Kamath,Mahamai Kamath,Navnath Pandey,1990-09-21,Female,,8  Gr Floor  Esplanade East  Kolkata  700069  West Bengal,,"8, Gr Floor, Esplanade East, Kolkata, 700069, West Bengal",CIDDE1234F,201030405060,0,0,,0,,Indian,,,1990,31
+58,Pan,,Navami Pandey,Heeralal Patel,Mahamaya Patel,Nagnath Pandey,1985-09-21,Female,,"15  Rajyog Apartment  Darya Ganj
+Delhi  110002  Delhi",,"15, Rajyog Apartment, Darya Ganj
+Delhi, 110002, Delhi",CIDFE1234F,201030405063,0,0,,0,,Indian,,,1985,36
+59,Pan,,Nilam Mane,Kishor More,Kishori More,Nilesh,1959-09-23,Female,,Shop No 15  Sonarika  Nanubhai Desai Road  Girgaon  Mumbai 400004  Maharashtra,,"Shop No 15, Sonarika, Nanubhai Desai Road, Girgaon, Mumbai 400004, Maharashtra",UYTRE6766B,113114115116,0,0,,0,,Indian,,,1959,62
+60,Pan,,Nilam Mane,Kisan More,Kishori More,Nitin Mane,1970-09-23,Female,,Flat No 45  Atharva Apartments  Airoli Sector 2  Airoli  Mumbai 400708  Maharashtra,,"Flat No 45, Atharva Apartments, Airoli Sector 2, Airoli, Mumbai 400708, Maharashtra",UYTRE2324B,113114115117,0,0,,0,,Indian,,,1970,51
+61,Pan,,Pandu Heravdakar,Gopal,Parvati,Pritam,1981-03-11,Male,,F 2  248 250  L N Complex  1st Floor  Behind Lal Building  Old Taragupet  Bangalore   560053  Karnataka,,"F-2, 248-250, L N Complex, 1st Floor, Behind Lal Building, Old Taragupet, Bangalore - 560053, Karnataka",ABDCM3335C,202021212220,0,0,,0,,Indian,,,1981,40
+62,Pan,,Pandu Heravdakar,Sopan,Parvati,Poonam,1985-03-13,Male,,House No  75  Mahakaleshwar Society  Ujjain   456006  MP,,"House No. 75, Mahakaleshwar Society, Ujjain - 456006, MP",ABCPB3336G,202021212222,0,0,,0,,Indian,,,1985,36
+63,Pan,,Peeyush Nijasure,Naresh,Narayani,Lekha,1982-10-25,Male,,204   Trimurti Bldg  Comercial Centre  New Friends Colony  Delhi 110065  Delhi,,"204 , Trimurti Bldg, Comercial Centre, New Friends Colony, Delhi 110065, Delhi",AJCJB8455D,212223242517,0,0,,0,,Indian,,,1982,39
+64,Pan,,Peeyush Nijasure,Narayan,Lakshmi,Purvi,1990-10-25,Male,,Flat No  28  Suvarna Apartment  Mahim  Mumbai   400111 Maharashtra,,"Flat No. 28, Suvarna Apartment, Mahim, Mumbai - 400111 Maharashtra",AEMPJ8455L,212223242526,0,0,,0,,Indian,,,1990,31
+65,Pan,,Pranav Marwah,Rajveer,Tejal,Poonam,1980-08-31,Male,,C 23/2  Goyal Business Center  Connaught Place  Delhi   110001  Delhi,,"C-23/2, Goyal Business Center, Connaught Place, Delhi - 110001, Delhi",ACGGC1254B,181920212218,0,0,,0,,Indian,,,1980,41
+66,Pan,,Pranav Marwah,Himmat,Sejal,Pankaja,1981-08-31,Male,,D 52  Shop No  101  Central Park  Connaught Place  Delhi   110001  Delhi,,"D-52, Shop No. 101, Central Park, Connaught Place, Delhi - 110001, Delhi",AJKDM1234W,0,0,0,,0,,Indian,,,1981,40
+67,Pan,,Prasad Dani,Prakash Dani,Shanta Dani,Priyanka Dani,1979-04-19,Male,,10  Rajyog Society  Varasia  Vadodara  390006  Gujarat,,"10, Rajyog Society, Varasia, Vadodara, 390006, Gujarat",JKAKW8532D,227113334455,0,0,,0,,Indian,,,1979,42
+68,Pan,,Prasad Dani,Pallav Dani,Shanti Dani,Priya Dani,1981-04-19,Male,,36  Kothari Market  Kankaria  Ahmedabad  380022  Gujarat,,"36, Kothari Market, Kankaria, Ahmedabad, 380022, Gujarat",JKAKW7532D,227112334455,0,0,,0,,Indian,,,1981,40
+69,Pan,,Prasanna Ravel,Daanish Ravel,Pooja Ravel,Mukti Ravel,1985-02-09,Male,,63  Marathahalli  Kolkata   587436  West Bengal,,"63, Marathahalli, Kolkata - 587436, West Bengal",PCDBA8967V,899998878685,0,0,,0,,Indian,,,1985,36
+70,Pan,,Prasanna Ravel,Danveer Ravel,Purna Ravel,Mukti Ravel,1987-02-09,Male,,22  Amrapali Nagar  Kolkata   587436  West Bengal,,"22, Amrapali Nagar, Kolkata - 587436, West Bengal",PCDBA9876V,899990878685,0,0,,0,,Indian,,,1987,34
+71,Pan,,Devika Malhotra,Aditya Mayadev,Manasa Mayadev,Motilal Malhotra,1985-03-13,Female,,240(271)  Lloyds Road  Royapettah  Chennai  600014  Tamil Nadu,,"240(271), Lloyds Road, Royapettah, Chennai, 600014, Tamil Nadu",JKPIU1020H,887799221133,0,0,,0,,Indian,,,1985,36
+72,Pan,,Devika Malhotra,Aditya Pandey,Manasa Pandey,Mahadev Malhotra,1986-03-13,Female,,240(271)  Lloyds Road  Royapettah  Bhayander (east)  Mumbai  401105  Maharashtra,,"240(271), Lloyds Road, Royapettah, Bhayander (east), Mumbai, 401105, Maharashtra",JKPJU1020H,887799221130,0,0,,0,,Indian,,,1986,35
+73,Pan,,Devika Mathai,Amrit Sheth,Preshita Sheth,Vicky Rajagopalan,1981-08-29,Female,,49  Nayan Nagar  Guwahati   471648  Assam,,"49, Nayan Nagar, Guwahati - 471648, Assam",UTKRE6766B,888655774433,0,0,,0,,Indian,,,1981,40
+74,Pan,,Devika Mathai,Amrit Sheth,Preshita Sheth,Vicky Rajagopalan,1981-08-29,Female,,49  Nayan Nagar  Bulandshahar  203001  Utter Pradesh,,"49, Nayan Nagar, Bulandshahar- 203001, Utter Pradesh",PTKRE6713B,888655773344,0,0,,0,,Indian,,,1981,40
+75,Pan,,Devika Sawhney,Aniket Balan,Kavita Balan,Deven Sawhney,1983-07-15,Female,,20  9 Main  Jayanagar  Bangalore  560011  Karnataka,,"20, 9 Main, Jayanagar, Bangalore, 560011, Karnataka",DELGC1234A,556644312211,0,0,,0,,Indian,,,1983,38
+76,Pan,,Devika Sawhney,Amit Balan,Jaya Balan,Devendra Sawhney,1982-07-15,Female,,20  9 Main  Jayanagar  Matunga (c r)  Mumbai  400019  Maharashtra,,"20, 9 Main, Jayanagar, Matunga (c.r), Mumbai, 400019, Maharashtra",DELGC3234A,556634312211,0,0,,0,,Indian,,,1982,39
+77,Pan,,Dinesh Toor,Akhil Toor,Sonam Toor,Dipali Toor,1959-05-23,Male,,Wp 489  Shiv Market  Wazirpur  Delhi  110052  Delhi,,"Wp 489, Shiv Market, Wazirpur, Delhi, 110052, Delhi",PNGSK14321K,605045402011,0,0,,0,,Indian,,,1959,62
+78,Pan,,Dinesh Toor,Akhilesh Toor,Sonali Toor,Dipshikha Toor,1979-05-23,Male,,Wp 489  Shiv Market  Gala No 9 Davale Nagar  Jekegram  Mumbai  400606  Maharashtra,,"Wp 489, Shiv Market, Gala No.9 Davale Nagar, Jekegram, Mumbai, 400606, Maharashtra",PNGSK4321K,605045432011,0,0,,0,,Indian,,,1979,42
+79,Pan,,Anees Chokshi,Abhinav,Kanak,Palak Chokshi,1990-10-25,Male,,"A 3/15  Asaf Ali Road  Darya Ganj
+Delhi  110002  Delhi",,"A-3/15, Asaf Ali Road, Darya Ganj
+Delhi, 110002, Delhi",PNQGI14321K,605040302011,0,0,,0,,Indian,,,1990,31
+80,Pan,,Anees Chokshi,Arnab,Kanak,,1991-10-25,Male,,A 3/15  Asaaf Ali Road  Kolkata  700069  West Bengal,,"A-3/15, Asaf Ali Road, Kolkata, 700069, West Bengal",0,605040302014,0,0,,0,,Indian,,,1991,30
+81,Pan,,Anjana Pandey,Dheeraj Malviya,Aasiya Malviya,Arjuna Pandey,1980-07-18,Female,,B 18  Vinco Chem  Ind  Estate  Panchal Road  Bhayander (east)  Mumbai  401105  Maharashtra,,"B-18, Vinco Chem. Ind. Estate, Panchal Road, Bhayander (east), Mumbai, 401105, Maharashtra",NURDE9089U,775544112233,0,0,,0,,Indian,,,1980,41
+82,Pan,,Anjana Pandey,Dhanraj Malviya,Asmita Malviya,Ananya Pandey,1981-07-18,Female,,B 18  Vinco Chem  Ind  Estate  Panchal Road  Chennai  600014  Tamil Nadu,,"B-18, Vinco Chem. Ind. Estate, Panchal Road, Chennai, 600014, Tamil Nadu",NURSE9089U,775544112239,0,0,,0,,Indian,,,1981,40
+83,Pan,,Anusha Kant,Venkata Thakre,Ananya Thakre,Vishnu Kant,1985-03-13,Female,,B 9  Aditya Apt  Chimpoly Road  Chikuwadi  Borivli (w)  Mumbai  400092  Maharashtra,,"B 9, Aditya Apt, Chimpoly Road, Chikuwadi, Borivli (w), Mumbai, 400092, Maharashtra",TPTRB6666G,112233445566,0,0,,0,,Indian,,,1985,36
+84,Pan,,Anusha Kant,Venkata Iyer,Anaya Iyer,Vidut Kant,1986-03-13,Female,,B 9  Aditya Apt  Chimpoly Road  Chikuwadi  Bangalore  560052,,"B 9, Aditya Apt, Chimpoly Road, Chikuwadi, Bangalore, 560052",TPURB6666G,112233445567,0,0,,0,,Indian,,,1986,35
+85,Pan,,Apurva Bahl,Prabodh Mand,Chhavi Mand,Apurv Bahl,1969-09-06,Female,,17  New No 18 a  Athipattan Street Chintadripet  Chennai  600002  Tamil Nadu,,"17, New No 18-a, Athipattan Street Chintadripet, Chennai, 600002, Tamil Nadu",NRCDE9089U,755554112233,0,0,,0,,Indian,,,1969,52
+86,Pan,,Apurva Bahl,Prabodh Mandad,Chhavi Mandad,Arun Bahl,1975-09-06,Female,,17  New No 18 a  Athipattan Street Chintadripet  Bangalore  560028  Karnataka,,"17, New No 18-a, Athipattan Street Chintadripet, Bangalore, 560028, Karnataka",NRCDE9989U,775554112233,0,0,,0,,Indian,,,1975,46
+87,Pan,,Aravind Bassi,Charlie Roy,Basanti Roy,Himani Bassi,1980-07-18,Male,,33  Nishtha Villas  Farah Chowk Vasai   401208  Maharashtra,,"33, Nishtha Villas, Farah Chowk Vasai - 401208, Maharashtra",NAGSA4321F,442266678899,0,0,,0,,Indian,,,1980,41
+88,Pan,,Aravind Charlie Bassi,Charlie Roy,Basanti Roy,,1980-07-18,Male,,33  Nishthaa Villas  Farah Chowk Vasai   401208  Maharashtra,,"33, Nishtha Villas, Farah Chowk Vasai - 401208, Maharashtra",0,0,0,0,,0,,Indian,,,1980,41
+89,Pan,,Aravind Bassi,Charlie Roy,Basanti Roy,Himani Bassi,1980-07-18,Male,,33  Nishtha Villas  Farah Chowk Ahmedabad   481754  Gujarat,,"33, Nishtha Villas, Farah Chowk Ahmedabad - 481754, Gujarat",NAGBC4321F,445566678899,0,0,,0,,Indian,,,1980,41
+90,Pan,,Aravind Chamraj Bassi,Chamraj Roy,Bela Roy,Hemlata Bassi,1982-07-18,Male,,33  Nishtha Villaas  Kolkata   346219  West Bengal,,"33, Nishtha Villas, Kolkata - 346219, West Bengal",NAGBC7895F,445566678099,0,0,,0,,Indian,,,1982,39
+91,Pan,,Pankaj Mathur,Mansingh Mathur,Seema Mathur,Archana Mathur,1989-01-25,Male,,A 404 Sai Sundram Nallasopara East Palghar Mumbai 401209,,A 404 Sai Sundram Nallasopara East Palghar Mumbai-401209,NACBD4521L,441567638899,0,0,,0,,Indian,,,1989,32
+92,Pan,,Pankaj Mansingh Mathur,Mansingh Mathur,,Archana Mathur,1989-01-25,Male,,A 404 Sai Sundram Nallasopara East Palghar Mumbai 401209,,A 404 Sai Sundram Nallasopara East Palghar Mumbai-401209,0,211567638899,0,0,,0,,Indian,,,1989,32
+93,Pan,,Arjun Pai,Rhitanshu,Rati,Ruhi Pai,1979-01-26,Male,,B/702  Sunlight Tower Bldg  S Vivekanand Rd  Dahisar  Mumbai  400068,,"B/702, Sunlight Tower Bldg, S Vivekanand Rd, Dahisar, Mumbai, 400068",BDGEA8455L,331122445566,0,0,,0,,Indian,,,1979,42
+94,Pan,,Arjun Ritesh Pai,Ritesh,Revti,Rahi Pai,1981-01-26,Male,,B/702  Sunlight Tower Bldg  Delhi  110028  Delhi,,"B/702, Sunlight Tower Bldg, Delhi, 110028, Delhi",0,0,0,0,,0,,Indian,,,1981,40
+95,Pan,,Aryan Srinivas,Karthik Srinivas,Manjusha Srinivas,Aruna Srinivas,1985-05-05,Male,,53/8  Magadi Main Road  Kamakshipalya  Bangalore  560079  Karnataka,,"53/8, Magadi Main Road, Kamakshipalya, Bangalore, 560079, Karnataka",CHNDK1324G,557666643322,0,0,,0,,Indian,,,1985,36
+96,Pan,,Aryan Srinivas,,Manjushri Srinivas,Archana Srinivas,1985-05-05,Male,,53/8  Magadi Main Road  Kamakshipalya  Chennai  600002  Tamil Nadu,,"53/8, Magadi Main Road, Kamakshipalya, Chennai, 600002, Tamil Nadu",CHNDK5324G,557676203322,0,0,,0,,Indian,,,1985,36
+97,Pan,,Azhar Shanker,Ayush,Amandara,Shitala Shanker,1959-09-23,Male,,"1501  15th Floor  Maker Chambers V  Nariman Point
+Mumbai  400021 Maharashtra",,"1501, 15th Floor, Maker Chambers V, Nariman Point
+Mumbai, 400021 Maharashtra",ATSBC7532D,109080706050,0,0,,0,,Indian,,,1959,62
+98,Pan,,Azhar Shanker,Ayushman,Anandi,Sheetal Shanker,1969-09-23,Male,,"1501  15th Floor  Maker Chambers V  
+Bangalore  560025  Karnataka",,"1501, 15th Floor, Maker Chambers V, 
+Bangalore, 560025, Karnataka",ATSBC7532D,109080706052,0,0,,0,,Indian,,,1969,52
+99,Pan,,Bhavana Rattan,Akshay Anne,Kanti Anne,Bhavesh Rattan,1985-07-18,Female,,1/22  Whs Timber Market  Kirti Nagar  Delhi  110015  Delhi,,"1/22, Whs Timber Market, Kirti Nagar, Delhi, 110015, Delhi",BTNPJ8455L,221123455566,0,0,,0,,Indian,,,1985,36
+100,Pan,,Bhavana Rattan,Akshay Hajare,Kanti Hajare,Bhaveek Rattan,1985-07-17,Female,,1/22  Whs Timber Market  Hyderabad  500001  Andhra Pradesh,,"1/22, Whs Timber Market, Hyderabad, 500001, Andhra Pradesh",BTNPJ8957L,221123357566,0,0,,0,,Indian,,,1985,36
+101,Pan,,Bhushan Jadhav,Gangadhar Jadhav,Subhadra Jadhav,Ashwini Jadhav,1976-12-20,Male,,177  Rajas Society  Katraj  Pune   411046 Maharashtra,,"177, Rajas Society, Katraj, Pune - 411046",AEMPJ5584L,937257034246,0,0,,0,,Indian,,,1976,45
+102,Pan,,Bhushan Jadhav,Gangadhar Jadhav,Parvati Jadhav,Ashwini Jadhav,1978-12-20,Male,,Flat No  177  Rajas Society  Mulund  Mumbai   410026 Maharashtra,,"Flat No. 177, Rajas Society, Mulund, Mumbai - 410026 Maharashtra",AEMPJ5556L,313233343536,0,0,,0,,Indian,,,1978,43
+103,Pan,,Brock Rastogi,Samuel,Rita,Reema,1981-04-10,Male,,202  Anant Appartment  Siyapura  Raopura  Vadodara 390001  Gujarat,,"202, Anant Appartment, Siyapura, Raopura, Vadodara 390001, Gujarat",BKCDE9089U,105106107108,0,0,,0,,Indian,,,1981,40
+104,Pan,,Brock Rastogi,David,Rita,Sejal,1980-04-10,Male,,202  Anant Appartment  Siyapura  Ramnagar  Hyderabad 500044  Andhra Pradesh,,"202, Anant Appartment, Siyapura, Ramnagar, Hyderabad 500044, Andhra Pradesh",BKCDE2122U,105106107109,0,0,,0,,Indian,,,1980,41
+105,Pan,,Chandni Mehan,Aman Jogalekar,Indira Jogalekar,Jamadagni Mehan,1984-08-15,Female,,24  Saban Complex  resrdblr 25  Opp Imperial Hotel  Residency Road  Bangalore  560025  Karnataka,,"24, Saban Complex, resrdblr-25, Opp Imperial Hotel, Residency Road, Bangalore, 560025, Karnataka",NABCG9854M,888786858483,0,0,,0,,Indian,,,1984,37
+106,Pan,,Chandni Mehan,Arman Javlekar,Indu Javlekar,Jay Mehan,1986-08-15,Female,,24  Saban Complex  resrdblr 25  Opp Imperial Hotel  Colaba  Mumbai  400005  Maharashtra,,"24, Saban Complex, resrdblr-25, Opp Imperial Hotel, Colaba, Mumbai, 400005, Maharashtra",NAYCG9854M,888786858484,0,0,,0,,Indian,,,1986,35
+107,Pan,,Chetan,Mehul Bhatti,Usha Bhatti,Pinky Bhatti,1984-08-14,Male,,87  Bandra  Chennai   149650  Tamil Nadu,,"87, Bandra, Chennai - 149650, Tamil Nadu",CDDFH1243B,666544332211,0,0,,0,,Indian,,,1984,37
+108,Pan,,Chetan,Mehul Bhatti,Usha Bhatti,Pinky Bhatti,1984-08-14,Male,,87  Bandra  Bandra West Mumabi 400050 Maharashtra,,"87, Bandra, Bandra West Mumabi,400050 Maharashtra",CDDFH1244B,666544332411,0,0,,0,,Indian,,,1984,37
+109,Pan,,Chetan,Amir Mehta,Kusum Mehta,Aruna Mehta,1990-09-19,Male,,82  Borivali  Bhopal   539238  Madhya Pradesh,,"82, Borivali, Bhopal - 539238, Madhya Pradesh",UKGSK3214Q,117725554433,0,0,,0,,,,,1990,31
+110,Pan,,Chetan Amir Mehta,Amir Mehta,Kusum Mehta,,1990-09-19,Male,,82  Borivali  Bhopal   539238  Madhya Pradesh,,"82, Borivali, Bhopal - 539238, Madhya Pradesh",UKGSK3214Q,117725554433,0,0,,0,,,,,1990,31
+111,Pan,,Chetan,Nirmal Naik,Preshita Naik,Komal Naik,1979-09-10,Male,,94  HeerPur  Alwar   199767  Rajasthan,,"94, HeerPur, Alwar - 199767, Rajasthan",TRHNJ8743V,898877868584,0,0,,0,,,,,1979,42
+112,Pan,,Chetan N,Nirmal Naik,Preshita Naik,Komal Naik,1979-09-10,Male,,94  HeerPur  Gangapur   322201  Rajasthan,,"94, HeerPur, Gangapur - 322201, Rajasthan",TRHNJ8744V,0,0,0,,0,,,,,1979,42
+113,Pan,,Darshana Peri,Jawahar Rao,Pushpa Rao,Aniruddh Peri,1998-03-21,Female,,70  Sumit Heights  Yerwada Bikaner   349205  Rajasthan,,"70, Sumit Heights, Yerwada Bikaner - 349205, Rajasthan",JKGKP4546O,337714445522,0,0,,0,,Indian,,,1998,23
+114,Pan,,Darshana Peri,Rajiv Rao,Soniya Rao,Priyanka Peri,1992-03-21,Female,,70  Sumit Heights  Yerwada Rajkot   307271  Gujarat,,"70, Sumit Heights, Yerwada Rajkot - 307271, Gujarat",JKGKP3215O,307714445522,0,0,,0,,Indian,,,1992,29
+115,Pan,,Deepak Kapadia,Dinesh Kapadia,Savita Kapadia,Nupur Kapadia,1981-10-21,Male,,48  Heena Society  NareshGunj Udaipur   165226  Rajasthan,,"48, Heena Society, NareshGunj Udaipur - 165226, Rajasthan",ABSTC7532D,109090706050,0,0,,0,,Indian,,,1981,40
+116,Pan,,Deepak Kapadia,Devraj Kapadia,Kavita Kapadia,Aarushi Kapadia,1981-10-21,Male,,48  Heena Society  NareshGunj Ranchi   296512  Jharkhand,,"48, Heena Society, NareshGunj Ranchi - 296512, Jharkhand",ABSTC9087D,109090705050,0,0,,0,,Indian,,,1981,40
+117,Pan,,Deepesh Chadha,Deelip,Dipti,Disha,1981-08-31,Male,,6  Maska Chawl  Sion Trombay Road  Near Yogi  Chembur  Mumbai 400071  Maharashtra,,"6, Maska Chawl, Sion Trombay Road, Near Yogi, Chembur, Mumbai 400071, Maharashtra",AGUGC1234A,656667686970,0,0,,0,,Indian,,,1981,40
+118,Pan,,Deepesh Chadha,Dinesh,Komal,Dipti Chadha,1982-08-31,Male,,6  Maska Chawl  Sion Trombay Road  Near Yogi  Chennai 600049  Tamil Nadu,,"6, Maska Chawl, Sion Trombay Road, Near Yogi, Chennai 600049, Tamil Nadu",AGUGC1415A,656667686971,0,0,,0,,Indian,,,1982,39
+119,Pan,,Pratik Apte,Baalkrishan Apte,Aarti Apte,,1979-01-20,Male,,36  Nitika Villas  Dadar Rajkot   283238  Gujarat,,"36, Nitika Villas, Dadar Rajkot - 283238, Gujarat",BDYTA8455L,331122245566,0,0,,0,,Indian,,,1979,42
+120,Pan,,Pratik Apte,Baala Apte,Shweta Apte,Meghana Apte,1981-01-20,Male,,36  Nitika Villas  Dadar Chennai   149650  Tamil Nadu,,"36, Nitika Villas, Dadar Chennai - 149650, Tamil Nadu",BDYTA3215L,331122240566,0,0,,0,,Indian,,,1981,40
+121,Pan,,Prem Padagavakar,Jaikishan,Jaya,Pooja,1980-07-07,Male,,VRG Complex  Opp to Court  Sathy Main Rd  Gobichettiapalayam  Erode   638476  Tamil Nadu,,"VRG Complex, Opp to Court, Sathy Main Rd, Gobichettiapalayam, Erode - 638476, Tamil Nadu",AVAVQ2143P,959697989176,0,0,,0,,Indian,,,1980,41
+122,Pan,,Prem Padagavakar,Atul,Maya,Samrudhi,1979-09-07,Male,,520  B   Ludhiana   141002  Punjab,,"520  B,  Ludhiana - 141002, Punjab",AWAWQ2143R,959697989192,0,0,,0,,Indian,,,1979,42
+123,Pan,,Priyanka Bedi,Ram Sethi,Seeta Sethi,Manav,1981-04-10,Female,,116 sprdblr 2  S P Road  Banglore 560002  Karnataka,,"116,sprdblr-2, S P Road, Banglore 560002, Karnataka",ACNGI14321K,171819202122,0,0,,0,,Indian,,,1981,40
+124,Pan,,Priyanka Bedi,Rameshwar Sethi,Seetadevi Sethi,Manavendra Bedi,1982-05-11,Female,,116 sprdblr 2  S P Road  Vashi Mumbai 400705 Maharashtra,,"116,sprdblr-2, S P Road, Vashi Mumbai 400705 Maharashtra",ACNGI3040K,171819202123,0,0,,0,,Indian,,,1982,39
+125,Pan,,Radha Thakur,Mohandas Saraf,Vidya Saraf,Radheya Thakur,1990-01-21,Female,,24/2 1  Sai Baba Mandir  Bangalore  560028  Karnataka,,"24/2,1, Sai Baba Mandir, Bangalore, 560028, Karnataka",CAANA1020H,887789921133,0,0,,0,,Indian,,,1990,31
+126,Pan,,Radha Thakur,Rajan Malhotra,Vidya Malhotra,Ranjan Thakur,1995-05-10,Female,,2/1  Near Sai Baba Mandir  Chennai  600002  Tamil Nadu,,"2/1, Near Sai Baba Mandir, Chennai, 600002, Tamil Nadu",CAANA1120H,0,0,0,,0,,Indian,,,1995,26
+127,Pan,,Rajnish Dar,Sumit Kapur,Prabha Kapur,Himani Kapur,1980-07-19,Male,,25  Sushmita Heights  Kharadi Pilani   209647  Rajasthan,,"25, Sushmita Heights, Kharadi Pilani - 209647, Rajasthan",NPRDE9089U,755544112233,0,0,,0,,Indian,,,1980,41
+128,Pan,,Rajnish Dar,Sumant Kapur,Pratibha Kapur,Hemlata Kapur,1983-07-02,Male,,30  Sushmita Heights  Kharadi Agra   471461  Uttar Pradesh,,"30, Sushmita Heights, Kharadi Agra - 471461, Uttar Pradesh",NPRDE1234U,705544112233,0,0,,0,,Indian,,,1983,38
+129,Pan,,Ramadugula Seeta Mahalakshmi,Sreeram Murthy,Tripura Sundari,Ramadugula Suryakumar,1980-09-23,Female,,H  No  16/22  East Parsigutta  Hyderabad 500021 Andhra Pradesh,,"H. No. 16/22, East Parsigutta, Hyderabad 500021 Andhra Pradesh",ABCDE4444F,373839404142,0,0,,0,,Indian,,,1980,41
+130,Pan,,Ramadugula Sita Mahalakshmi,Kakaraparthy Sreeram Murthy,Kakaraparthy Tripura Sundari,Ramadugula Venkat Surya,1959-09-23,Female,,H  No  1 6 212/64/22  West Parsigutta  Hyderabad 500020 AP,,"H. No. 1-6-212/64/22, West Parsigutta, Hyderabad 500020 AP",ABCDE4321F,102030405060,0,0,,0,,Indian,,,1959,62
+131,Pan,,Dinesh Yadav,Ram Yadav,Seeta Yadav,Vinesh Yadav,1990-09-21,Male,,House No  25  Neelaya Society  Auto Market  Hisar   125001 Haryana,,"House No. 25, Neelaya Society, Auto Market, Hisar - 125001 Haryana",APCPB6666G,605040302010,0,0,,0,,Indian,,,1990,31
+132,Pan,,Dinesh Yadav,Ramnivas Yadav,Bhanwari Devi Yadav,,1985-10-21,Male,,Flat No  25  Hisar Colony  Sadar Market  Hisar   125003 Haryana,,"Flat No. 25, Hisar Colony, Sadar Market, Hisar - 125003 Haryana",APCPB4546G,434445464748,0,0,,0,,Indian,,,1985,36
+133,Pan,,Durga Balakrishnan,Rohan Khosla,Devina Khosla,Shiv Balakrishnan,1978-09-07,Female,,27/28 Woods Road  Anna Salai  Chennai  600002  Tamil Nadu,,"27/28 Woods Road, Anna Salai, Chennai, 600002, Tamil Nadu",TPTHK5287F,777755443322,0,0,,0,,Indian,,,1978,43
+134,Pan,,Durga Balakrishnan,Rohan Garg,Devina Garg,Shivansh Balakrishnan,1979-06-07,Female,,27/28 Woods Road  Anna Salai  Bangalore  560079  Karnataka,,"27/28 Woods Road, Anna Salai, Bangalore, 560079, Karnataka",TPTHK4287F,777665443322,0,0,,0,,Indian,,,1979,42
+135,Pan,,Falguni Kant,Sunder Holkar,Draupati Holkar,Prakash Kant,1981-08-31,Female,,1/a  1  Vasanthnagar  Bangalore  560052,,"1/a, 1, Vasanthnagar, Bangalore, 560052",BOMPJ8455L,221133445566,0,0,,0,,Indian,,,1981,40
+136,Pan,,Falguni Kant,Sharad Pant,Dhwani Pant,Naresh Kant,1983-08-31,Female,,1/a  1  Vasanthnagar  Borivli (w)  Mumbai  400092  Maharashtra,,"1/a, 1, Vasanthnagar, Borivli (w), Mumbai, 400092, Maharashtra",BOAPJ8455L,221133445568,0,0,,0,,Indian,,,1983,38
+137,Pan,,Gajendra Thakkar,Vishnu,Kaumari,Krishna Thakkar,1989-06-25,Male,,E/103 a Simla House  51 b Nepeasea Road  August Kranti Marg  Mumbai  400036,,"E/103-a Simla House, 51-b Nepeasea Road, August Kranti Marg, Mumbai, 400036",OMGCG5287F,776655443322,0,0,,0,,Indian,,,1989,32
+138,Pan,,Gajendra Thakkar,Vishwas,Kanchan,Radha Thakkar,1989-06-25,Male,,E/103 a Simla House  51 b Nepeasea Road  Manali  Chennai  600103,,"E/103-a Simla House, 51-b Nepeasea Road, Manali, Chennai, 600103",OMRCG5287F,776655443323,0,0,,0,,Indian,,,1989,32
+139,Pan,,Gauransh Bhatt,Mahesh,Parvati,Gauri,1990-09-21,Male,,87  Furniture Block  Kirti Nagar  Delhi 110015  Delhi,,"87, Furniture Block, Kirti Nagar, Delhi 110015, Delhi",APCRB6666G,353637383940,0,0,,0,,Indian,,,1990,31
+140,Pan,,Gauransh Bhatt,Maheshwar,Parvatidevi,Gauri Bhatt,1987-09-21,Male,,87  Furniture Block  Kirti Nagar  Banglore 560096  Karnataka,,"87, Furniture Block, Kirti Nagar, Banglore 560096, Karnataka",APCRB9010G,353637383941,0,0,,0,,Indian,,,1987,34
+141,Pan,,Gayatri Subramanian,Mani Ranganathan,Rohini Ranganathan,Ganesh,1998-02-21,Female,,6/3 wareroad frazertown bangalore 5  Frazer Town  Banglore 560005  Karnataka,,"6/3,wareroad,frazertown,bangalore-5, Frazer Town, Banglore 560005, Karnataka",TRPJH8743V,125126127128,0,0,,0,,Indian,,,1998,23
+142,Pan,,Gayatri Subramanian,Manik Ranganathan,Mayuri Ranganathan,Ganesh,1999-02-21,Female,,6/3 wareroad frazertown bangalore 5  Frazer Town  Hyderabad 500095  Andhra Pradesh,,"6/3,wareroad,frazertown,bangalore-5, Frazer Town, Hyderabad 500095, Andhra Pradesh",TRPJH2627V,125126127129,0,0,,0,,Indian,,,1999,22
+143,Pan,,Geetanjali Bali,Ayush Bhavalakar,Chhaya Bhavalakar,Sharad Bali,1979-01-26,Female,,Narayan Bldg  Near Swami Narayan Temple  Dadar (c r )  Mumbai  400014  Maharashtra,,"Narayan Bldg, Near Swami Narayan Temple, Dadar (c.r.), Mumbai, 400014, Maharashtra",BCGER7654N,878786868585,0,0,,0,,Indian,,,1979,42
+144,Pan,,Geetanjali Bali,Arjun Valimbe,Chhaya Valimbe,Shankar Bali,1981-01-26,Female,,Narayan Bldg  Near Swami Narayan Temple  Lower Parel  Mumbai  400013  Maharashtra,,"Narayan Bldg, Near Swami Narayan Temple, Lower Parel, Mumbai, 400013, Maharashtra",BCDER7654N,878786868582,0,0,,0,,Indian,,,1981,40
+145,Pan,,Giaan Menon,Gopal,Chandika,Archita Menon,1976-12-20,Male,,"313/31412  25  Musium Road
+Bangalore  560025  Karnataka",,"313/31412, 25, Musium Road
+Bangalore, 560025, Karnataka",AACSR3214Q,123456789010,0,0,,0,,Indian,,,1976,45
+146,Pan,,Giaan Menon,Gopinath,Chanda,Arpita Menon,1979-12-20,Male,,"313/31412  25  Musium Road  Nariman Point
+Mumbai  400021 Maharashtra",,"313/31412, 25, Musium Road, Nariman Point
+Mumbai, 400021 Maharashtra",AACSE3214Q,123456789011,0,0,,0,,Indian,,,1979,42
+147,Pan,,Indira D’Alia,Gagan Dvivedi,,Ishwar D'Alia,1980-07-18,Female,,F 151  Main Road  Near Ambedkar Gate  Jagat Puri  Delhi  110051  Delhi,,"F-151, Main Road, Near Ambedkar Gate, Jagat Puri, Delhi, 110051, Delhi",NAGDE4321F,445566778899,0,0,,0,,Indian,,,1980,41
+148,Pan,,Indira D’Alia,Gangaram Chaturvedi,Gayatri Chaturvedi,,1980-07-18,Female,,F 151  Main Road  Near Ambedkar Gate  Sainath Road  Malad(w)  Mumbai  400062  Maharashtra,,"F-151, Main Road, Near Ambedkar Gate, Sainath Road, Malad(w), Mumbai, 400062, Maharashtra",NALDE4321F,445566778896,0,0,,0,,Indian,,,1980,41
+149,Pan,,Indrani Singh,Ranjit Sanyal,Chambeli Sanyal,Chatur Singh,1998-02-21,Female,,15/16mgrdrdblr 1  Mg Road  Bangalore  560001  Karnataka,,"15/16mgrdrdblr-1, Mg Road, Bangalore, 560001, Karnataka",JKGTP4546O,337711445522,0,0,,0,,Indian,,,1998,23
+150,Pan,,Indrani Singh,Raghav Patel,Chameli Patel,Charan Singh,1999-02-21,Female,,15/16mgrdrdblr 1  Mg Road  Thane(w)  Mumbai  400604  Maharashtra,,"15/16mgrdrdblr-1, Mg Road, Thane(w), Mumbai, 400604, Maharashtra",JKDTP4546O,337711445528,0,0,,0,,Indian,,,1999,22
+151,Pan,,Rakhi Rahul Yadav,Bhima Valimbe Yadav,Nehal Yadav,Rahul Yadav,1990-09-22,Female,,18/19  12  Btm Layout  Bangalore  560029  Karnataka,,"18/19, 12, Btm Layout, Bangalore, 560029, Karnataka",KUGWD3214Q,447722554433,0,0,,0,,Indian,,,1990,31
+152,Pan,,Rakhi Yadav,Rajan Kamble Yadav,Neha Yadav,Rakesh Yadav,1992-07-14,Female,,Shop No  200  Midc  Badlapur  Mumbai  421503,,"Shop No. 200, Midc, Badlapur, Mumbai, 421503",UDKWR3214Q,117722551135,0,0,,0,,Indian,,,1992,29
+153,Pan,,Inika Hora,Aditya Sawhney,Riya Sawhney,Ramesh Hora,1976-12-21,Female,,88  Hinjewadi  Rajkot   503445  Gujarat,,"88, Hinjewadi, Rajkot - 503445, Gujarat",BRODK1324G,557666443322,0,0,,0,,Indian,,,1976,45
+154,Pan,,Inika Hora,Amarendra Sawhney,Devsena Sawhney,Bhallaldev Hora,1979-12-21,Female,,88  Hinjewadi  ManojPur Ahmedabad   255345  Gujarat,,"88, Hinjewadi, ManojPur Ahmedabad - 255345, Gujarat",BRODK9587G,557666440322,0,0,,0,,Indian,,,1979,42
+155,Pan,,Iqbal Mistry,Abdul,Fiza,Riya,1976-12-20,Male,,1 7 659/26/1  Opp luna High School  Ramnagar  Hyderabad 500044  Andhra Pradesh,,"1-7-659/26/1, Opp.luna High School, Ramnagar, Hyderabad 500044, Andhra Pradesh",LPKIU1020H,109110111112,0,0,,0,,Indian,,,1976,45
+156,Pan,,Iqbal Mistry,Anis,Raziya,Riya,1977-12-20,Male,,1 7 659/26/1  Opp luna High School  Raopura  Vadodara 390001  Gujarat,,"1-7-659/26/1, Opp.luna High School, Raopura, Vadodara 390001, Gujarat",LPKIU2223H,109110111113,0,0,,0,,Indian,,,1977,44
+157,Pan,,Ishaan Bora,Shivansh Bora,Disha Bora,Ishaanya Bora,1979-01-22,Male,,A 5  578  Jitendra Jame  J J Road  Matunga (c r)  Mumbai  400019  Maharashtra,,"A-5, 578, Jitendra Jame, J J Road, Matunga (c.r), Mumbai, 400019, Maharashtra",ALPNB3336G,445561123366,0,0,,0,,Indian,,,1979,42
+158,Pan,,Ishaan Bora,Shiv Bora,Disha Bora,Radhika Bora,1980-01-22,Male,,A 5  578  Jitendra Jame  J J Road  Bangalore 560001 Karnataka,,"A-5, 578, Jitendra Jame, J J Road, Bangalore,560001 Karnataka",ALPNB1336G,445571123366,0,0,,0,,Indian,,,1980,41
+159,Pan,,Jaswant Gola,Kulwant,Navjot,Neha,1980-07-18,Male,,62 &63  Cp Ramasamy Road  Alwarpet  Chennai 600018  Tamil Nadu,,"62 &63, Cp Ramasamy Road, Alwarpet, Chennai 600018, Tamil Nadu",BDGAA8967V,129130131132,0,0,,0,,Indian,,,1980,41
+160,Pan,,Jaswant Gola,Kuljeet,,,1981-07-18,Male,,62 &63  Cp Ramasamy Road  Alwarpet  Banglore 560027  Karnataka,,"62 &63, Cp Ramasamy Road, Alwarpet, Banglore 560027, Karnataka",BDGAA2728V,129130131133,0,0,,0,,Indian,,,1981,40
+161,Pan,,Javed Bahri,Iqbal,Zareen,Jasmin,1981-08-31,Male,,4  Jeevanprem  Panchpakhadi  Thane (w) Mumbai 400602  Maharashtra,,"4, Jeevanprem, Panchpakhadi, Thane (w) Mumbai 400602, Maharashtra",POIUY8888C,137138139140,0,0,,0,,Indian,,,1981,40
+162,Pan,,Javed Bahri,Taimur,Zeenat,Jasmin,1981-08-31,Male,,10/B  Saisneh Apartment  Panchshil Society  Bandra (w) Mumbai 400602  Maharashtra,,"10/B, Saisneh Apartment, Panchshil Society, Bandra (w) Mumbai 400602, Maharashtra",POIUY2930C,137138139141,0,0,,0,,Indian,,,1981,40
+163,Pan,,Jayendra Lad,Karthik Lad,Darika Lad,Jayashri Lad,1979-11-21,Male,,701 Jupiter Bldg  Hiranandani(c)  A 4th Cross Lane  Lokhandwala  Andheri (west) Mumbai 400053  Maharashtra,,"701 Jupiter Bldg, Hiranandani(c), A 4th Cross Lane, Lokhandwala, Andheri (west) Mumbai 400053, Maharashtra",ABSRC3214Q,123456899010,0,0,,0,,Indian,,,1979,42
+164,Pan,,Jayendra Lad,Kailash Lad,Rashmi Lad,Dipali Lad,1985-11-21,Male,,701 Jupiter Bldg  Hiranandani(c)  A 4th Cross Lane  Coimbatore  641002  Tamil Nadu,,"701 Jupiter Bldg, Hiranandani(c), A 4th Cross Lane, Coimbatore, 641002, Tamil Nadu",ABSRC1214Q,123456800010,0,0,,0,,Indian,,,1985,36
+165,Pan,,Jayesh Dyal,Vishal Dyal,Diti Dyal,Jayashri Dyal,1988-08-31,Male,,Flat No 304 3rd Floor St No 10  D V Arcade Main Road  Himayath Nagar  Hyderabad  500029  Andhra Pradesh,,"Flat No 304 3rd Floor St No 10, D V Arcade Main Road, Himayath Nagar, Hyderabad, 500029, Andhra Pradesh",JKPBA8967V,889998878685,0,0,,0,,Indian,,,1988,33
+166,Pan,,Jayesh Dyal,Vighnesh Dyal,Dipti Dyal,Jaya Dyal,1987-08-31,Male,,Flat No 304 3rd Floor St No 10  D V Arcade Main Road  Dehradun 248001 Uttarakhand,,"Flat No 304 3rd Floor St No 10, D V Arcade Main Road, Dehradun-248001,Uttarakhand",JKPBA9967V,889998778686,0,0,,0,,Indian,,,1987,34
+167,Pan,,Jwala Chadda,Jaikishan,Nidhi,Vijay,1988-06-25,Female,,Flat No  144  Sejal Arcade  Malad  Mumbai   400007  Maharashtra,,"Flat No. 144, Sejal Arcade, Malad, Mumbai - 400007, Maharashtra",ABABC7532D,787974757376,0,0,,0,,Indian,,,1988,33
+168,Pan,,Jwala Chadda,Jaikishan,Jaya,Vishal,1989-06-25,Female,,Flat No  144  Sejal Arcade   Achole Rd  Nalasopara(e)  Mumbai   401209  Maharashtra,,"Flat No. 144, Sejal Arcade,  Achole Rd, Nalasopara(e), Mumbai - 401209, Maharashtra",CBCBA7541E,167974757317,0,0,,0,,Indian,,,1989,32
+169,Pan,,Kajol Dewan,Bhima Sanyal,Shambhavi Sanyal,Om Dewan,1984-08-15,Female,,A 11  Naraina Indl Area  Delhi  110028  Delhi,,"A 11, Naraina Indl Area, Delhi, 110028, Delhi",CDCKH1243B,665544332211,0,0,,0,,Indian,,,1984,37
+170,Pan,,Kajol Dewan,Rahul Gaykwad,Aahana  Gayakwad,HariOm Dewan,1984-08-15,Female,,A 11  Naraina Indl Area  S Vivekanand Rd  Dahisar  Mumbai  400068,,"A 11, Naraina Indl Area, S Vivekanand Rd, Dahisar, Mumbai, 400068",CDRKH1343B,665544332210,0,0,,0,,Indian,,,1984,37
+171,Pan,,Kalini Chadha,Krishna Bose,Urmi Bose,Tushar Chadha,1979-09-08,Female,,87  Kharadi  Raipur   305517  Chhattisgarh,,"87, Kharadi, Raipur - 305517, Chhattisgarh",ALGNB3336G,445511123366,0,0,,0,,Indian,,,1979,42
+172,Pan,,Kalini Chadha,Bhima Bose,Druti Bose,Vishal Chadha,1980-09-08,Female,,87  Kharadi   Kanpur   208004  Uttar Pradesh,,"87, Kharadi,  Kanpur - 208004, Uttar Pradesh",ALGNB4568G,445511124067,0,0,,0,,Indian,,,1980,41
+173,Pan,,Kalyani Tata,Pratyush Murthy,Kirtida Murthy,Kalyan Tata,1979-01-19,Female,,Rto Main Road  Opp  Jhulelal Mandir  Varasia  Vadodara  390006  Gujarat,,"Rto Main Road, Opp. Jhulelal Mandir, Varasia, Vadodara, 390006, Gujarat",LCGKP4546O,337712445522,0,0,,0,,Indian,,,1979,42
+174,Pan,,Kalyani Tata,Prathamesh Murthy,Kirti Murthy,Kalpesh Tata,1978-01-19,Female,,Rto Main Road  Opp  Jhulelal Mandir  Ahmedabad  380022  Gujarat,,"Rto Main Road, Opp. Jhulelal Mandir, Ahmedabad, 380022, Gujarat",LCGKP9547O,367712445523,0,0,,0,,Indian,,,1978,43
+175,Pan,,Kirti Prakash,Amrit Devdhar,Sukanya Devdhar,Bhima Prakash,1981-08-31,Female,,127  A  Har Indl Est  Sun Mill Road  Lower Parel  Mumbai  400013  Maharashtra,,"127, A, Har Indl Est, Sun Mill Road, Lower Parel, Mumbai, 400013, Maharashtra",UTYRE6766B,886655774433,0,0,,0,,Indian,,,1981,40
+176,Pan,,Kirti Prakash,Amit Gaikwad,Sukanya Gaikwad,Om Prakash,1982-08-31,Female,,127  A  Har Indl Est  Sun Mill Road  Dadar (c r )  Mumbai  400014  Maharashtra,,"127, A, Har Indl Est, Sun Mill Road, Dadar (c.r.), Mumbai, 400014, Maharashtra",UTARE6766B,886655774431,0,0,,0,,Indian,,,1982,39
+177,Pan,,Lakshmi Desai,Binoya Kabra,Mukti Kabra,Javed Desai,1979-01-10,Female,,95  Alaknanda Villas  PreshitaGarh Ajmer   464375  Rajasthan,,"95, Alaknanda Villas, PreshitaGarh Ajmer - 464375, Rajasthan",BCNER7654N,878886868585,0,0,,0,,Indian,,,1979,42
+178,Pan,,Lakshmi Desai,Bijoya Kabra,Muktai Kabra,Jaydev Desai,1980-01-10,Female,,95  Alaknanda Villas  PreshitaGarh Guwahati   471648  Assam,,"95, Alaknanda Villas, PreshitaGarh Guwahati - 471648, Assam",BCNER7890N,878886068586,0,0,,0,,Indian,,,1980,41
+179,Pan,,Lalita Dutt,Rahul Gayakwad,Aahana  Gayakwad,Navneet Dutt,1979-09-07,Female,,Jn2/5/a 2  Sector 10  Vashi  Mumbai  400703,,"Jn2/5/a-2, Sector 10, Vashi, Mumbai, 400703",ALFPB3336G,445511223366,0,0,,0,,Indian,,,1979,42
+180,Pan,,Lalita Dutt,Bhima Sanyal,Richa Sanyal,Navin Dutt,1979-09-07,Female,,Jn2/5/a 2  Sector 10  Chickpet  Nallasopara East 401209 Maharashtra,,"Jn2/5/a-2, Sector 10, Chickpet, Bangalore, 560053, Karnataka",ALOPB3336G,445511223361,0,0,,0,,Indian,,,1979,42
+181,Pan,,Lina Dugal,Raghavan Dhingra,Nidhi Dhingra,Ram Dugal,1989-11-11,Female,,10  Virar  Chennai   111334  Tamil Nadu,,"10, Virar, Chennai - 111334, Tamil Nadu",CEPDE1234F,201020405060,0,0,,0,,Indian,,,1989,32
+182,Pan,,Lina Dugal,Raman Dhingra,Varsha Dhingra,Ramesh Dugal,1987-11-11,Female,,10  Virar  Indore   381528  Madhya Pradesh,,"10, Virar, Indore - 381528, Madhya Pradesh",CEPDE4512F,201020406061,0,0,,0,,Indian,,,1987,34
+183,Pan,,Akash,Santosh Mathr,Rajkurmari Mathur,Priti Mathur,1989-11-12,Male,,17/18  Vihar  Muzaffarpur   111334  Bihar,,"17/18, Virar, Muzaffarpur - 111334, Bihar",CEPDE2143G,201020405010,0,0,,0,,Indian,,,1989,32
+184,Pan,,Akash Mathur,Kamlesh Mathur,Renu Mathur,Kavita Mathur,1989-11-12,Male,,17/18  Vihar  Rajnagar  Ghaziabad 201002 Uttar Pradesh,,"17/18, Vihar, Rajnagar, Ghaziabad,201002,Uttar Pradesh",CEPDE2145A,201020405012,0,0,,0,,Indian,,,1989,32
+185,Pan,,Arun Rao,Jitendra Rao,Kavita Rao,Rani Rao,1985-12-22,Male,,Flat No 12 Sarita Vihar Bangalore 560003 Karnataka,,"Flat No 12,Sarita Vihar,Bangalore,560003,Karnataka",BYKQP7001C,411020405010,0,0,,0,,Indian,,,1985,36
+186,Pan,,Arun Rao,Jitendra Rao,Kavita Rao,,1985-12-22,Male,,Flat No 12 Sarita Vihar Jodhpur 342003 Rajasthan,,"Flat No 12,Sarita Vihar,Jodhpur,342003,Rajasthan",BYKQP7001C,311020405011,0,0,,0,,Indian,,,1985,36
+187,Pan,,Amar Singh,Rajendra Singh,Kavita Singh,Suman Singh,1975-11-22,Male,,H NO 11/1 Radha Nagar Bulandshahar 203001 Uttar Pradesh ,,"H NO 11/1 Radha Nagar Bulandshahar,203001,Uttar Pradesh ",EDPDE1143G,321020405010,0,0,,0,,Indian,,,1975,46
+188,Pan,,Amar Singh,Rajendra Singh,,,1975-11-22,Male,,H NO 11/1 Radha Nagar Jabalpur 482003 Madhya Pradesh,,"H NO 11/1 Radha Nagar Jabalpur,482003,Madhya Pradesh",DEPDE2243G,321020405110,0,0,,0,,Indian,,,1975,46
+189,Pan,,Seema Yadav,Rampal Yadav,Renu Yadav,Sita Yadav,1979-09-23,Female,,Plot No 25 Echelon Square  Sector 32 Gurgan 122001 Haryana,,"Plot No.25,Echelon Square, Sector,32,Gurgan-122001,Haryana",YBRQP7011C,221020405022,0,0,,0,,Indian,,,1979,42
+190,Pan,,Seema Yadav,Rampal Yadav,Renu Yadav,,1979-09-23,Female,,Plot No 25 Echelon Square  Sector 32 Rohini  110042 Delhi,,"Plot No.25,Echelon Square, Sector,32,Rohini, 110042,Delhi",YBRQP4012D,601020405026,0,0,,0,,Indian,,,1979,42
+191,Pan,,Arun Suman,Umardas Dinkar,Jaidevi Dinkar,Bhagayshree,1984-03-20,Male,,H NO 1111  Leelawati  Patoriya Jhansi 284001 Uttar Pradesh,,"H NO 1111, Leelawati, Patoriya Jhansi-284001,Uttar Pradesh",NBTQP4311C,241020405021,0,0,,0,,Indian,,,1984,37
+192,Pan,,Arun Suman,Umardas Dinkar,,,1984-03-20,Male,,H NO 1111  Leelawati  Patoriya Katni 483501  Madhya Pradesh,,"H NO 1111, Leelawati, Patoriya,Katni,483501, Madhya Pradesh",BNTQP4334C,241020405331,0,0,,0,,Indian,,,1984,37
+193,Pan,,Neha,Rajeev Panday,Seema Panday,Ritika Panday,1982-03-16,Female,,S N 18/19 Lane No  3 Om Sai Ganesh Nagar  Pune 411006 Maharashatra,,"S.N.18/19 Lane No  3 Om Sai Ganesh Nagar  Pune,411006,Maharashatra",ABCDE0001F,102030405060,0,0,,0,,Indian,,,1982,39
+194,Pan,,Neha Panday,Rajeev Panday,Seema Panday,Ritika Panday,1982-03-16,Female,,S N 18/19 Lane No  3 Om Sai Ganesh Nagar Solapur 413001 Maharashatra,,"S.N.18/19 Lane No  3 Om Sai Ganesh Nagar Solapur,413001,Maharashatra",BACDE1472E,203530405060,0,0,,0,,Indian,,,1982,39
+195,Pan,,Ranveer ,Arun Sharma,Vinita Sharma,Teena Sharma,1991-10-10,Male,,105  Upasana Nagar  Indore   381528  Madhya Pradesh,,"105, Upasana Nagar, Indore - 381528, Madhya Pradesh",PNSGK4575K,615044402066,0,0,,0,,Indian,,,1991,30
+196,Pan,,Ranveer Sharma,Arun Sharma,Vinita Sharma,Wani Sharma,1991-09-10,Male,,105  Upasana Nagar  Chennai  600001  Tamil Nadu,,"105, Upasana Nagar, Chennai -600001, Tamil Nadu",GSNPH4575K,612144402061,0,0,,0,,Indian,,,1991,30
+197,Pan,,Rajesh ,Santosh Gangwar,Rita Gangwar,Vijeta Gangwar,1986-02-12,Male,,Flat No 17  Izzat Nagar Bareilly 243122 Uttar Pradesh,,"Flat No 17, Izzat Nagar,Bareilly,243122,Uttar Pradesh",QWERT3698Y,987789475869,0,0,,0,,Indian,,,1986,35
+198,Pan,,Rajesh Gangwar,Santosh Gangwar,Reeta Gangwar,Vijeta Gangwar,1986-02-12,Male,,Flat No 17  Izzat Nagar Sec 62 Nodia Uttar Pradesh,,"Flat No 17, Izzat Nagar,Sec 62,Nodia,Uttar Pradesh",PWERT1698Y,887789475869,0,0,,0,,Indian,,,1986,35
+199,Pan,,Soni,Kapil Dubey,Sarita Dubey,Rakesh Dubey,1984-04-13,Female,,76  Veena Society Mira Road(E) 401074 Mumabi Maharashatra,,"76, Veena Society,Mira Road(E),401074,Mumabi,Maharashatra",SADFG5425G,298635523669,0,0,,0,,Indian,,,1984,37
+200,Pan,,Soni Dubey,Kapil Dubey,Sarita Dubey,Rakesh Dubey,1984-04-13,Female, ,76  Veena SurSayaam Society VasaiEast 401208 Mumbai Maharashtra,,"76, Veena SurSayaam Society,VasaiEast,401208,Mumbai,Maharashtra",0,298635523669,0,0,,0,,Indian,,,1984,37
+201,Pan,,Neha,Dinesh Pingle,Sarika Pingle,Raj Pingle,1987-09-05,Female,,Flat No 12 A Wing  Hiranandani estate Thane (E) Maharashtra,,"Flat No 12 A Wing, Hiranandani estate,Thane (E),Maharashtra",POIUY4758T,345768699632,0,0,,0,,Indian,,,1987,34
+202,Pan,,Neha Pingle,Dinesh Pingle,Sarika Pingle,Raj Pingle,1987-09-05,Female,,Flat No 12 Wing A Sargodha Apt Dwarka Sec 7 110075  Delhi,,"Flat No 12 Wing A,Sargodha Apt Dwarka Sec 7,110075, Delhi",OPUIY7410H,344768699633,0,0,,0,,Indian,,,1987,34
+203,Pan,,Kiran,Ramesh Mistry,Roopa Mistry,Reena Mistry,1980-03-10,Male,,Yogi COHS  B Wing  Flat No 202 60 Feet Road Vasai West 401202 Maharashtra,,"Yogi COHS, B Wing, Flat No 202,60 Feet Road Vasai West,401202,Maharashtra",ZAQWS3692C,874557488775,0,0,,2504547584,mk@gmail.com,Indian,,,1980,41
+204,Pan,,Kiran Mistrry,Ramesh Mistry,Ropa Mistry,Rena Mistry,1980-03-10,Male,,Yogi COHS  B Wing  Flat No 202 60 Feet Road Model Town  110009 Delhi,,"Yogi COHS, B Wing, Flat No 202,60 Feet Road,Model Town, 110009,Delhi",ZASWS3629R,674557488774,0,0,,0,,Indian,,,1980,41
+205,Pan,Singh,Gurjit,Harpreet Singh,Sonal Singh,Savita Singh,1980-03-12,Male,,SEC 21 2nd Floor  B Block Ranjit Avenue Amritsar Punjab 143001,,"SEC-21 2nd Floor ,B-Block Ranjit Avenue,Amritsar,Punjab,143001",BYTUS4000J,636968855664,0,0,,0,,Indian,,,1980,41
+206,Pan,,Gurjeet Singh,Harpreet Singh,Sonali Singh,Saveta Singh,1980-03-12,Male,,SEC 21 2nd Floor  B Block Ranjit Avenue Dwarka  Sec 10 110075 Delhi,,"SEC-21 2nd Floor ,B-Block Ranjit Avenue,Dwarka, Sec-10,110075,Delhi",BYTUT4110J,646968855644,0,0,,0,,Indian,,,1980,41
+207,Pan,,Janhit ,Vinod Gupta,Priti Gupta,Sarika Gupta,1980-05-15,Male,,H No 233 Gali No 1  Radha Nagar  Bulandshahar 203001 UttarPradesh,,"H No 233,Gali No 1, Radha Nagar, Bulandshahar,203001,UttarPradesh",KLMNJ4775L,801247155741,0,0,,0,,Indian,,,1980,41
+208,Pan,,Janhit Gupta,Vinod Gupta,Priti Gupta,Sarika Gupta,1980-05-15,Male,,H No 233 Gali No 1  Adarsh Nagar 302004 Jaipur Rajasthan,,"H No 233,Gali No 1, Adarsh Nagar,302004,Jaipur,Rajasthan",LKMNJ4745L,811247155742,0,0,,0,,Indian,,,1980,41
+209,Pan,,Reena,Roop Sant,Savita Sant,Rakesh Singh,1979-07-14,Female,,M Wing  H No 281 Sanjay Nagar  Ghaziabad 201003  Uttar Pradesh,,"M Wing, H No 281,Sanjay Nagar, Ghaziabad,201003, Uttar Pradesh",LOPIT6323Y,784875566325,0,0,,0,,Indian,,,1979,42
+210,Pan,,Reena Sant,Roop Sant,Savita Sant,Rakesh Singh,1979-07-17,Female,,M Wing  H No 281 Sanjay Nagar  Lucknow 226001 Uttar Pradesh,,"M Wing, H No 281,Sanjay Nagar, Lucknow,226001,Uttar Pradesh",OLPIT6332K,799875566321,0,0,,0,,Indian,,,1979,42
+211,Pan,,Kapil,Hetentra Singh,Rita Singh,Neelam Singh,1981-02-12,Male,,Ground Floor Flat No  10 Olympica Soc Basheerbagh Hyderabad 500001 Telangana,,"Ground Floor,Flat No, 10,Olympica Soc,Basheerbagh,Hyderabad-500001,Telangana",CABGH8745K,764774455883,0,0,,7545767177,sh@gmail.com,Indian,,,1981,40
+212,Pan,,Kapil Singh,Hetentra Singh,Rita Singh,Neelam Singh,1981-02-12,Male,,Ground Floor Flat No  10 Olympica Soc Bhumkar Chowk Wakad Pune 411033 Maharashatra,,"Ground Floor,Flat No, 10,Olympica Soc,Bhumkar Chowk Wakad,Pune,411033,Maharashatra",ACBGH8755K,766774455863,0,0,,0,,Indian,,,1981,40
+213,Pan,,Rahul,Sudhir Khanna,Rekha Khanna,Sonika Khanna,1978-01-30,Male,,107 New Sama Rd Defence Colony Nr Chankeypuri Vadodara 390007 Gujarat,,"107,New Sama Rd,Defence Colony Nr Chankeypuri,Vadodara,390007,Gujarat",GFDSA7314J,710223322001,0,0,,0,,Indian,,,1978,43
+214,Pan,,Rahul Khanna,Sudhir Khanna,Rekha Khanna,Sonika Khanna,1978-01-30,Male,,107 Kirti Nagar Defence Colony Agra Cantt 282009 Uttar Pradesh,,"107,Kirti Nagar Defence Colony,Agra Cantt,282009,Uttar Pradesh",FGDSA73124J,711223322011,0,0,,0,,Indian,,,1978,43
+215,Pan,,Sunil,Dhiraj Ravet,Neha Ravet,Nikita Ravet,1981-04-15,Male,,503 Block B Shreejan Apartement Avanti Vihar New Raipur 492007 Chhatisgarh,,"503 Block B,Shreejan Apartement,Avanti Vihar,New Raipur,492007,Chhatisgarh",ZXCVB4882N,733223322147,0,0,,0,,Indian,,,1981,40
+216,Pan,,Sunil Ravet,Dhiraj Ravet,Neha Ravet,Nikita Ravet,1981-04-15,Male,,503 Block B Santi Society Sus Gaon  Pashan Road 411021  Pune  Maharashtra,,"503 Block B,Santi Society,Sus Gaon, Pashan Road,411021, Pune, Maharashtra",XZCVB4482N,734223322144,0,0,,0,,Indian,,,1981,40
+217,Pan,,Deeplata,Balaram Suman,Priti Suman,Jitendra Suman,1981-06-14,Female,,678/2  Gali No 6  Mevalal ki Bagiya Jhilmil Colony  Naini  211001 Allahabad,,"678/2, Gali No 6, Mevalal ki Bagiya,Jhilmil Colony, Naini, 211001,Allahabad",MNVCB3665V,500477784452,0,0,,0,,Indian,,,1981,40
+218,Pan,,Deeplata Suman,Balaram Suman,Priti Suman,Jitendra Suman,1981-06-14,Female,,678/2  Gali No 6 Jhilmil Colony Laxmi Nagar 110092 Dellhi,,"678/2, Gali No 6,Jhilmil Colony,Laxmi Nagar,110092,Dellhi",NMVCB2465V,520477784452,0,0,,0,,Indian,,,1981,40
+219,Pan,,Pankaj Mathur,Mansingh Mathur,Seema Mathur,Arachana Mathur,1987-10-25,Male,,59/D Simla House Nepeasea Road  August Kranti Marg  Mumbai  400036,,"59/D-Simla House,Nepeasea Road, August Kranti Marg, Mumbai, 400036",ZASXD1473J,414223322001,0,0,,0,,Indian,,,1987,34
+220,Pan,,Pankaj Mathur,Mansingh Mathur,Seema Mathur,Arachana Mathur,1987-10-25,Male,,59/D Simla House Nepeasea Road  Manali  Chennai  600103,,"59/D-Simla House,Nepeasea Road, Manali, Chennai, 600103",AZSXD2473J,414223322011,0,0,,0,,Indian,,,1987,34
+221,Pan,,Rajeev,Mahesh Chopda,Rakhi Chopda,Rani Chopda,1979-06-08,Male,,226 City Centre  Opp  Guru Nanak Bhawan  Near Bus Stand  Amritsar  Punjab 143001,,"226 City Centre, Opp, Guru Nanak Bhawan, Near Bus Stand, Amritsar, Punjab-143001",CVBZX2822M,454223322241,0,0,,0,,Indian,,,1979,42
+222,Pan,,Rajeev Chopda,Mahesh Chopda,Rakhi Chopda,Rani Chopda,1979-06-08,Male,,226 Morna  Sector 35Noida Uttar Pradesh 201307,,"226,Morna, Sector-35Noida Uttar Pradesh-201307",CVBZX3822M,454223322244,0,0,,0,,Indian,,,1979,42
+223,Pan,,Ankur,Dinesh Jadhav,Aabha Jadhav,Deepa Jadhav,1976-12-20,Male,,Plot 16 Grount Floor  Amar Stambh Zone 1  MP Nagar Bhopal Madhya Pradesh 462016,,"Plot 16,Grount Floor, Amar Stambh,Zone 1, MP Nagar Bhopal,Madhya Pradesh-462016",KLVCB3665V,580477784453,0,0,,0,,Indian,,,1976,45
+224,Pan,,Ankur Jadhav,Dinesh Jadhav,Aabha Jadhav,Deepa Jadhav,1976-12-20,Male,,Plot 303 Makesue Tower Behind Jhabua Tower Indore Madhya Pradesh 452001,,"Plot 303,Makesue Tower,Behind Jhabua Tower,Indore,Madhya Pradesh-452001",KLDCB2625V,580477784454,0,0,,0,,Indian,,,1976,45
+225,Pan,,Megha,Roop Tiwari,Manju Tiwari,Rajesh Tiwari,1976-04-15,Female,,34/35 Mathura Vihar  Nr Vijay Nagar  Kanchan Vihar Jabalpur  Madhya Pradesh 482002,,"34/35 Mathura Vihar, Nr Vijay Nagar, Kanchan Vihar Jabalpur, Madhya Pradesh-482002",SXDAA1473O,512223322003,0,0,,0,,Indian,,,1976,45
+226,Pan,,Megha Tiwari,Roop Tiwari,Manju Tiwari,Rajesh Tiwari,1976-04-15,Female,,197 Barah Ji Ka Chowk Choti Chaupar  C P Bazar  Jaipur  Rajasthan 302003,,"197,Barah Ji Ka Chowk,Choti Chaupar, C P Bazar, Jaipur, Rajasthan-302003",SXDAZ2433P,543223322354,0,0,,0,,Indian,,,1976,45
+227,Pan,,Mohit,Mahesh Yadav,Rani Yadav,Rakhi Yadav,1979-06-08,Male,,Plot No26 7 Mantri Wadi S Vivekanand Road   Malad West Mumbai Maharashtra 400064,,"Plot No26-7 Mantri Wadi,S Vivekanand Road , Malad West,Mumbai,Maharashtra-400064",BZXCV7890N,752233222414,0,0,,0,,Indian,,,1979,42
+228,Pan,,Mohit Yadav,Mahesh Yadav,Rani Yadav,Rakhi Yadav,1979-06-08,Male,,Plot No 51 A Ranjana Enclav Pandey Layout Nagpur Maharashtra 440025,,"Plot No-51 A,Ranjana Enclav,Pandey Layout,Nagpur,Maharashtra-440025",KIBTQ3696L,152233222411,0,0,,0,,Indian,,,1979,42
+229,Pan,,Ankur,Dinesh Kurmi,Aabha Kurmi,Dipa Kurmi,1976-12-20,Male,,Plot 125 Grount Floor  Amar Stambh Zone 1  Mohan Nagar Bhopal Madhya Pradesh 462016,,"Plot 125,Grount Floor, Amar Stambh,Zone 1, Mohan Nagar Bhopal,Madhya Pradesh-462016",CLVCB2541V,514477784453,0,0,,0,,Indian,,,1976,45
+230,Pan,,Ankur Kurmi,Dinesh Kurmi,Aabha Kurmi,Dipa Kurmi,1976-12-20,Male,,Plot 303 Behind Jhabua Tower Indore Madhya Pradesh 452001,,"Plot 303,Behind Jhabua Tower,Indore,Madhya Pradesh-452001",UDDCB1625C,534477784450,0,0,,0,,Indian,,,1976,45
+231,Pan,,Pooja,Vijay Tiwari,Manju Tiwari,Hemandra Tiwari,1976-04-11,Female,,SN 06  Saket Commercial Complex  New Railway Road Gurgaon Haryana 122001,,"SN-06, Saket Commercial Complex, New Railway Road,Gurgaon,Haryana-122001",GTYUO1473E,630012244552,0,0,,0,,Indian,,,1976,45
+232,Pan,,Pooja Tiwari,Vijay Tiwari,Manju Tiwari,Hemandra Tiwari,1976-04-11,Female,,19 Vishal Commercial Complex Radha Nagar  Railway Road  Bulandshahar Uttar Pradesh 203001,,"19,Vishal Commercial Complex,Radha Nagar, Railway Road, Bulandshahar,Uttar Pradesh-203001",ZLOPM2433E,544712244112,0,0,,0,,Indian,,,1976,45
+233,Pan,,Mohit,Mahesh Malik,Rani Malik,Rakhi Malik,1979-06-18,Male,,H No 26 Mantri Wadi S Vivekanand Road   Malad West Mumbai Maharashtra 400064,,"H No 26 Mantri Wadi,S Vivekanand Road , Malad West,Mumbai,Maharashtra-400064",QZXCV7890Q,700233222410,0,0,,0,,Indian,,,1979,42
+234,Pan,,Mohit Malik,Mahesh Malik,Rani Malik,Rakhi Malik,1979-06-18,Male,,H No 17 A Ranjana Enclav Pandey Layout Nagpur Maharashtra 440025,,"H No-17 A,Ranjana Enclav,Pandey Layout,Nagpur,Maharashtra-440025",AIBTQ3696L,730233222413,0,0,,0,,Indian,,,1979,42
+235,Pan,,Kuldeep,Dipendra Saini,Anita Saini,Dipa Saini,1976-12-20,Male,,25 Grount Floor  Amar Stambh Zone 1  Mohan Nagar Bhopal Madhya Pradesh 462016,,"25,Grount Floor, Amar Stambh,Zone 1, Mohan Nagar Bhopal,Madhya Pradesh-462016",KLVCB5041V,523577784453,0,0,,0,,Indian,,,1976,45
+236,Pan,,Kuldeep Saini,Dipendra Saini,Anita Saini,Dipa Saini,1976-12-20,Male,,252 Behind Jhabua Tower Indore Madhya Pradesh 452001,,"252,Behind Jhabua Tower,Indore,Madhya Pradesh-452001",UDDCB1625C,534477784451,0,0,,0,,Indian,,,1976,45
+237,Pan,,Sarita,Ramesh Gautam,Mita Gautam,Pushpendra Gautam,1978-04-23,Female,,6 Jayshree  Shankar Soc Gultekdi  Pune  Maharashtra 411037,,"6 Jayshree, Shankar Soc,Gultekdi, Pune, Maharashtra,411037",KLJHL3693G,650001233212,0,0,,0,,Indian,,,1978,43
+238,Pan,,Sarita Gautam,Ramesh Gautam,Mita Gautam,Pushpendra Gautam,1978-04-23,Female,,6 Ashiyana Soc  Nr Hajoori Chambers  Viramgami St  Begampura  Surat  Gujarat 395003,,"6,Ashiyana Soc, Nr Hajoori Chambers, Viramgami St, Begampura, Surat, Gujarat,395003",OPMAL4422E,652301233213,0,0,,0,,Indian,,,1978,43
+239,Pan,,Nitin,Nilesh Singh,Rekha Singh,Neelam Singh,1982-01-15,Male,,250 Jatia Kahilipara Guwahati Assam 781019,,"250 Jatia,Kahilipara,Guwahati,Assam,781019",QZOOV8890Q,711233222410,0,0,,0,,Indian,,,1982,39
+240,Pan,,Nitin Singh,Nilesh Singh,Rekha Singh,Neelam Singh,1982-01-15,Male,,104 Luhadia Tower Ashok Marg  Jaipur Rajasthan 302001,,"104,Luhadia Tower,Ashok Marg, Jaipur,Rajasthan-302001",RTBTQ1691L,711133222411,0,0,,0,,Indian,,,1982,39
+241,Pan,,Rajnesh,Rajendra Thakur,Anita Thakur,Ranjana Thakur,1976-12-20,Male,,B 183 Rajaji Puram Lucknow Uttar Pradesh 226017,,"B-183,Rajaji Puram,Lucknow,Uttar Pradesh-226017",GHYTU4751K,563577784456,0,0,,0,,Indian,,,1976,45
+242,Pan,,Rajnesh Thakur,Rajendra Thakur,Anita Thakur,Ranjana Thakur,1976-12-20,Male,,46 Goal Bagh Railway Station Amritsar Punjab 143001,,"252,Behind Jhabua Tower,Indore,Madhya Pradesh-452001",GGYTU6751K,534477784451,0,0,,0,,Indian,,,1976,45
+243,Pan,,Nikita,Ramesh Gautam,Meena Gautam,Hemant Gautam,1981-05-15,Female,,6b Sultan Alam Road Tollygunge Kolkata West Bengal 700033,,"6b,Sultan Alam Road,Tollygunge,Kolkata,West Bengal-700033",BOPLK3693G,656501233212,0,0,,0,,Indian,,,1981,40
+244,Pan,,Nikita Gautam,Ramesh Gautam,Meena Gautam,Hemant Gautam,1981-05-15,Female,,6b Sultan Alam Road  Nr Hajoori Chambers  Viramgami St  Begampura  Surat  Gujarat 395003,,"6b,Sultan Alam Road, Nr Hajoori Chambers, Viramgami St, Begampura, Surat, Gujarat,395003",SQMAL4422E,655501233215,0,0,,0,,Indian,,,1981,40
+245,Pan,,Suraj,Rajveer Shah,Rekha Shah,Neelam Shah,1982-10-10,Male,,16/3 Jagannathan Road  Nungambakkam Chennai Tamil Nadu 600034,,"16/3 Jagannathan Road, Nungambakkam,Chennai,Tamil Nadu-600034",QZMBV6890E,766233622410,0,0,,0,,Indian,,,1982,39
+246,Pan,,Suraj Shah,Rajveer Shah,Rekha Shah,Neelam Shah,1982-10-10,Male,,16/3 Jagannathan Road Ashok Marg  Jaipur Rajasthan 302001,,"16/3 Jagannathan Road,Ashok Marg, Jaipur,Rajasthan-302001",DTBTQ3693L,717733222417,0,0,,0,,Indian,,,1982,39
+247,Pan,,Jitendra,Rajendra Kajla,Anita Kajla,Ranjana Kajla,1976-12-20,Male,,C 35 Udyogpuram Industrial Estate  Partapur Delhi Road Meerut Uttar Pradesh 250501,,"C-35,Udyogpuram Industrial Estate, Partapur,Delhi Road Meerut-Uttar Pradesh-250501",TUGHY2000U,547577784425,0,0,,0,,Indian,,,1976,45
+248,Pan,,Jitendra Kajla,Rajendra Kajla,Anita Kajla,Ranjana Kajla,1976-12-20,Male,,LG 07 Ansal Plaza Mall  Dabar Chowk  Vaishali  Ghaziabad Uttar Pradesh 201007,,"LG-07,Ansal Plaza Mall, Dabar Chowk, Vaishali, Ghaziabad,Uttar Pradesh-201007",YYKTU1755K,304477784450,0,0,,0,,Indian,,,1976,45
+249,Pan,,Pawan,Rakesh Satpal,Manshi Satpal,Niraj Satpal,1981-06-15,Male,,16 Hari Om Heritage  Sector 21 Plot No8  Kharghar Navi Mumbai Maharashtra 410210,,"16,Hari Om Heritage, Sector 21,Plot No8, Kharghar,Navi Mumbai,Maharashtra-410210",LKBOP2692G,666551233215,0,0,,0,,Indian,,,1981,40
+250,Pan,,Pawan Satpal,Rakesh Satpal,Manshi Satpal,Niraj Satpal,1981-06-15,Male,,16 Hari Om Heritage  Sector 21 Plot No8  Begampura  Surat  Gujarat 395003,,"16,Hari Om Heritage, Sector 21,Plot No8, Begampura, Surat, Gujarat,395003",MALSQ1122E,675571233217,0,0,,0,,Indian,,,1981,40
+251,Pan,,Jay,Rajvir Vora,Renu Vora,Nilima Vora,1982-11-10,Male,,B/103 Asmita Cres  Nr Asmita Club  Naya Nagar Mira Road East  Thane Maharashtra 400008,,"B/103,Asmita Cres, Nr Asmita Club, Naya Nagar,Mira Road East, Thane,Maharashtra-400008",BVQZM6891D,766233622415,0,0,,0,,Indian,,,1982,39
+252,Pan,,Jay Vora,Rajvir Vora,Renu Vora,Nilima Vora,1982-11-10,Male,,B/3 Jagannathan Road Ashok Marg  Jaipur Rajasthan 302001,,"B/3 Jagannathan Road,Ashok Marg, Jaipur,Rajasthan-302001",TQDTB4693J,917733222419,0,0,,0,,Indian,,,1982,39
+253,Pan,,Vardan,Rajendra Sharma,Anita Sharma,Ranjana Sharma,1976-12-20,Male,,C 35 Udyogpuram Industrial Estate  Partapur Delhi Road Meerut Uttar Pradesh 250501,,"C-35,Udyogpuram Industrial Estate, Partapur,Delhi Road Meerut-Uttar Pradesh-250501",HYTUG2123U,847577784485,0,0,,0,,Indian,,,1976,45
+254,Pan,,Vardan Sharma,Rajendra Sharma,Anita Sharma,Ranjana Sharma,1976-12-20,Male,,LG 07 Ansal Plaza Mall  Dabar Chowk  Vaishali  Ghaziabad Uttar Pradesh 201007,,"LG-07,Ansal Plaza Mall, Dabar Chowk, Vaishali, Ghaziabad,Uttar Pradesh-201007",TUUYK4755K,3744777844506,0,0,,0,,Indian,,,1976,45
+255,Pan,,Shabdantika,Rakesh Parab,Manshi Parab,Niraj Parab,1983-03-15,Female,,A/601 DSK Saraswati Vaishet Pada No 2 Anna Bhau Sathe Marg Malad East Mumbai Maharashtra 400097,,"A/601,DSK Saraswati,Vaishet Pada No 2 Anna Bhau Sathe Marg Malad East,Mumbai,Maharashtra-400097",UPBNG2692H,696540985651,0,0,,0,,Indian,,,1983,38
+256,Pan,,Shabdantika Parab,Rakesh Parab,Manshi Parab,Niraj Parab,1983-03-15,Female,,D 181  Vashi Plaza  Sec 17 Highway Face  Vashi  Navi Mumbai Mumbai  Maharashtra  400705,,"D 181, Vashi Plaza, Sec 17 Highway Face, Vashi, Navi Mumbai,Mumbai, Maharashtra, 400705",KLOPI1122E,706540985651,0,0,,0,,Indian,,,1983,38
+257,Pan,,Hasti,Rajvir Vora,Renu Vora,Nilima Vora,1982-11-10,Female,,H No 17 Sunder Prakash Co hsg society Jitendra Road  Near Ambika Mata Mandir Malad East Mumbai Maharashtra 400097,,"H No-17 Sunder Prakash Co.hsg.society,Jitendra Road, Near Ambika Mata Mandir,Malad East,Mumbai,Maharashtra-400097",YUIOP6891D,645817151021,0,0,,0,,Indian,,,1982,39
+258,Pan,,Hasti Vora,Rajvir Vora,Renu Vora,Nilima Vora,1982-11-10,Female,,H no 18  Gali 7  Bhudatt Colony Ballabhgarh  Rajasthan  121004,,"H no 18, Gali 7, Bhudatt Colony Ballabhgarh, Rajasthan, 121004",TREWQ4693J,655817151025,0,0,,0,,Indian,,,1982,39
+259,Pan,,Rikita,Rajendra Modi,Anita Modi,Dipak Modi,1976-12-20,Female,,Plot No F 7  Industrial Area  Phase 8 Mohali  Chandigarh  160055,,"Plot No F-7, Industrial Area, Phase 8 Mohali, Chandigarh, 160055",ZAQWE2123U,510859517690,0,0,,0,,Indian,,,1976,45
+260,Pan,,Rikita Modi,Rajendra Modi,Anita Modi,Dipak Modi,1976-12-20,Female,,Plot A1 Sector 40 41  Gautam Budh Nagar  Surajpur Kasna Road  Uttar Pradesh  201301,,"Plot A1 Sector 40-41, Gautam Budh Nagar, Surajpur Kasna Road, Uttar Pradesh, 201301",XSADC4755K,511859517691,0,0,,0,,Indian,,,1976,45
+261,Pan,,Adwait,Anil Dhawan,Manisha Dhawan,Nilam Dhawan,2001-02-15,Male,,D/521 Visava CHS Haji Bapu Road Malad East Mumbai Maharasharat 400097,,"D/521,Visava CHS Haji Bapu Road Malad East,Mumbai,Maharasharat,400097",GUPBN2000K,242425148694,0,0,,0,,Indian,,,2001,20
+262,Pan,,Adwait Dhawan,Anil Dhawan,Manisha Dhawan,Nilam Dhawan,1983-03-15,Male,,"B 117  Sector 67
+Gautam Budh Nagar  Uttar Pradesh  201301",,"B-117, Sector-67
+Gautam Budh Nagar, Uttar Pradesh, 201301",PIKOO1111Q,266425148696,0,0,,0,,Indian,,,1983,38
+263,Pan,,Kanishka,Kaustubh Khopar,Richa Khopar,Nihal Khopar,1985-09-11,Female,,A/33 Kailashchandra CHS LTD Mahindra Nagar Dayabhai Patel Road  Malad East Mumbai Maharashtra 400097,,"A/33,Kailashchandra CHS LTD,Mahindra Nagar,Dayabhai Patel Road, Malad East,Mumbai,Maharashtra-400097",OPYUI6825D,218768498264,0,0,,0,,Indian,,,1985,36
+264,Pan,,Kanishka Khopar,Kaustubh Khopar,Richa Khopar,Nihal Khopar,1985-09-11,Female,,5B  Subansiri Apartments  Block A  Government Press Road  Bamunimaidam  Guwahati Kamrup Metropolitan  Assam  781021,,"5B, Subansiri Apartments, Block A, Government Press Road, Bamunimaidam, Guwahati,Kamrup Metropolitan, Assam, 781021",WQTRE5695A,258758498254,0,0,,0,,Indian,,,1985,36
+265,Pan,,Yeshvi,Jignesh Shah,AnkitaShah,Dinesh Shah,1976-12-20,Female,,H No 21 Om Sai Krupa bldg Haji Bapu Road Malad East Mumbai 400097,,"H No 21,Om Sai Krupa bldg Haji Bapu Road Malad East,Mumbai-400097",ZWEAQ3698L,501347284954,0,0,,0,,Indian,,,1976,45
+266,Pan,,Yeshvi Shah,Jignesh Shah,Ankita Shah,Dinesh Shah,1976-12-20,Female,,B1/17 vimal Vihar opp   Police Chowki pune  Near Jain Mandir opp bibvewadi Police Pune  Maharashtra  411037,,"B1/17,vimal Vihar,opp., Police Chowki,pune, Near Jain Mandir,opp.bibvewadi Police Pune, Maharashtra, 411037",ZSADC4782K,511347284951,0,0,,0,,Indian,,,1976,45
+267,Pan,,Dron,Sehul Nayak,Shwati Nayak,Dilip Nayak,2001-02-15,Male,,G 2 Sayani Chawl Ranisati Marg Opp Laxminarayan Temple Kandiwali Mumbai Maharashtra 400096,,"G-2,Sayani Chawl Ranisati Marg,Opp Laxminarayan Temple,Kandiwali,Mumbai,Maharashtra-400096",HTBVC2458L,689535853853,0,0,,0,,Indian,,,2001,20
+268,Pan,,Dron Nayak,Sehul Nayak,Shwati Nayak,Dilip Nayak,1983-03-15,Male,,LDA Colony  Sec D1  Kanpur Road Lucknow  Uttar Pradesh  226012,,"LDA Colony, Sec D1, Kanpur Road,Lucknow, Uttar Pradesh, 226012",HTBVC4751Q,679535753757,0,0,,0,,Indian,,,1983,38
+269,Pan,,Yamini,Akhilesh Prajapati,Richa Prajapati,Nitin Prajapati,1985-09-11,Female,,"SP 21  Sector C  Chetan Vihar Colony  Aliganj
+Lucknow  Uttar Pradesh  226024",,"SP 21, Sector C, Chetan Vihar Colony, Aliganj
+Lucknow, Uttar Pradesh, 226024",OPKLT7875D,981731570841,0,0,,0,,Indian,,,1985,36
+270,Pan,,Yamini Prajapati,Akhilesh Prajapati,Richa Prajapati,Nitin Prajapati,1985-09-11,Female,,No  8  1st Floor  Panchanantala Lane  Behala Kolkata  West Bengal  700034,,"No. 8, 1st Floor, Panchanantala Lane, Behala,Kolkata, West Bengal, 700034",DFTRE1695A,921731572842,0,0,,0,,Indian,,,1985,36
+271,Pan,,Vedika,Manish Patil,AnkitaPatil,Rajesh Patil,1976-12-20,Female,,705 Ashirwad Building C 3 Near Kabutar Khana Dhanji Wadi  Malad East Mumbai Maharashtra 400097,,"705,Ashirwad Building C-3,Near Kabutar Khana,Dhanji Wadi, Malad East,Mumbai,Maharashtra-400097",AREAQ4198L,924654039067,0,0,,0,,Indian,,,1976,45
+272,Pan,,Vedika Patil,Manish Patil,Ankita Patil,Rajesh Patil,1976-12-20,Female,,Plot No 430A  Industrial Area  Phase II Chandigarh  Chandigarh  160002,,"Plot No 430A, Industrial Area, Phase II,Chandigarh, Chandigarh, 160002",ADCZS2769K,934654039063,0,0,,0,,Indian,,,1976,45
+273,Pan,,Anirudh,Shahil Tripathi,Simran Tripathi,Dhirandra Tripathi,2001-01-15,Male,,H NO 01 Rani Laxmi Marg  Krishna Nagar Malad West Maharashtara 400085,,"H NO 01,Rani Laxmi Marg ,Krishna Nagar,Malad West-Maharashtara-400085",BVCNT3030M,977296550040,0,0,,0,,Indian,,,2001,20
+274,Pan,,Anirudh Tripathi,Shahil Tripathi,Simran Tripathi,Dhirandra Tripathi,2001-01-15,Male,,"13 Buddha Deb Bose Rd  Ashrampara
+Darjeeling  West Bengal  734101",,"13 Buddha Deb Bose Rd, Ashrampara
+Darjeeling, West Bengal, 734101",TBVHC0051Q,937296550043,0,0,,0,,Indian,,,2001,20
+275,Pan,,Khushi,Akhilesh Prajapati,Richa Prajapati,NeerajPrajapati,1985-09-11,Female,,"2  1st Floor  West Row  Circus Avenue
+Kolkata  West Bengal  700017",,"2, 1st Floor, West Row, Circus Avenue
+Kolkata, West Bengal, 700017",KLTOP3873D,971731570847,0,0,,0,,Indian,,,1985,36
+276,Pan,,Khushi Prajapati,Akhilesh Prajapati,Richa Prajapati,NeerajPrajapati,1985-09-11,Female,,"47/8  Near Punjab National Bank
+Allahabad  Uttar Pradesh  211006",,"47/8, Near Punjab National Bank
+Allahabad, Uttar Pradesh, 211006",TREDF2295T,966731570846,0,0,,0,,Indian,,,1985,36
+277,Pan,,Sanika,Manish Gopale,AnkitaGopale,RagvendraGopale,1976-12-20,Female,,"4/996  Old Mahabalipuram Road
+Chennai  Tamil Nadu  600096",,"4/996, Old Mahabalipuram Road
+Chennai, Tamil Nadu, 600096",EAQAR4598T,656522638231,0,0,,0,,Indian,,,1976,45
+278,Pan,,Sanika Gopale,Manish Gopale,Ankita Gopale,RagvendraGopale,1976-12-20,Female,,"Apeksha Apartment  401 404  Opp Indian Oil Depot  Section 11
+Udaipur  Rajasthan  313001",,"Apeksha Apartment, 401-404, Opp Indian Oil Depot, Section 11
+Udaipur, Rajasthan, 313001",CZSAD0769K,656622638236,0,0,,0,,Indian,,,1976,45
+279,Pan,,Mayur,Shahil Pingle,Simran Pingle,NehaPingle,1999-03-15,Male,,"B/103  Asmita Cres  Nr Asmita Club  Naya Nagar  Mira Road East
+Thane  Maharashtra  400008",,"B/103, Asmita Cres, Nr Asmita Club, Naya Nagar, Mira Road East
+Thane, Maharashtra, 400008",CWENT3336M,917296552041,0,0,,0,,Indian,,,1999,22
+280,Pan,,Mayur Pingle,Shahil Pingle,Simran Pingle,NehaPingle,1999-03-15,Male,,"1st Floor  LIG 684  Housing Board Colony  Sector 3  Ranjit Avenue
+Amritsar  Punjab  143001",,"1st Floor, LIG-684, Housing Board Colony, Sector-3, Ranjit Avenue
+Amritsar, Punjab, 143001",CVZHC4151Q,927296552021,0,0,,0,,Indian,,,1999,22
+281,Pan,,Aachal,Akhilesh Ambaliya,Richa Ambaliya,NeerajAmbaliya,1988-09-11,Female,,"2nd Floor Centre Point  Above Pizza Hut  A  Block Sushant Lok I  Sector 28
+Gurgaon  Haryana  122001",,"2nd Floor Centre Point, Above Pizza Hut, A- Block Sushant Lok-I, Sector 28
+Gurgaon, Haryana, 122001",QPBVU4951H,627413507619,0,0,,0,,Indian,,,1988,33
+282,Pan,,Aachal Ambaliya,Akhilesh Ambaliya,Richa Ambaliya,NeerajAmbaliya,1988-09-11,Female,,"214  1st Floor  Monica Tower  Milap Chowk
+Jalandhar  Punjab  144001",,"214, 1st Floor, Monica Tower, Milap Chowk
+Jalandhar, Punjab, 144001",AZWDF3295T,657413507615,0,0,,0,,Indian,,,1988,33
+283,Pan,,Deepa,Mahesh Dhale,AnkitaDhale,Rajendra Dhale,1976-12-20,Female,,"18  Civic Centre  Khandelwal Complex  Opp Prabhu Vandana Talkies  Marhatal
+Jabalpur  Madhya Pradesh  482001",,"18, Civic Centre, Khandelwal Complex, Opp Prabhu Vandana Talkies, Marhatal
+Jabalpur, Madhya Pradesh, 482001",XZAAR1598T,606522638230,0,0,,0,,Indian,,,1976,45
+284,Pan,,Deepa Dhale,Mahesh Dhale,Ankita Dhale,Rajendra Dhale,1976-12-20,Female,,"52 dineshcmplxsubedarchetramrd 4  Subedar Chetram Road
+Bangalore  Karnataka  560004",,"52,dineshcmplxsubedarchetramrd-4, Subedar Chetram Road
+Bangalore, Karnataka, 560004",XSQAD1769K,606622638236,0,0,,0,,Indian,,,1976,45
+285,Pan,,Hitesh,Shahil More,Sikha More,NeetuMore,1986-04-21,Male,,"330  Goshamahal Road  Begum Bazar
+Hyderabad  Andhra Pradesh  500012",,"330, Goshamahal Road, Begum Bazar
+Hyderabad, Andhra Pradesh, 500012",WECNT5467M,917296455201,0,0,,0,,Indian,,,1986,35
+286,Pan,,Hitesh More,Shahil More,Sikha More,NeetuMore,1986-04-21,Male,,"5B  Subansiri Apartments  Block A  Government Press Road  Bamunimaidam  Guwahati
+Kamrup Metropolitan  Assam  781021",,"5B, Subansiri Apartments, Block A, Government Press Road, Bamunimaidam, Guwahati
+Kamrup Metropolitan, Assam, 781021",ZHCCV1051Q,927202129655,0,0,,0,,Indian,,,1986,35
+287,Pan,,Saniya,Akhil Maniyar,Ritu Maniyar,NirajManiyar,1988-07-24,Female,,"Plot No 430A  Industrial Area  Phase II
+Chandigarh  Chandigarh  160002",,"Plot No 430A, Industrial Area, Phase II
+Chandigarh, Chandigarh, 160002",BVUQP6751H,627761941350,0,0,,0,,Indian,,,1988,33
+288,Pan,,Saniya Maniyar,Akhil Maniyar,Ritu Maniyar,NirajManiyar,1988-07-24,Female,,"C 61/2  Arjun Nagar  Safdarjung Enclave
+Delhi  Delhi  110029",,"C 61/2, Arjun Nagar, Safdarjung Enclave
+Delhi, Delhi, 110029",WDFAZ4895T,657761541350,0,0,,0,,Indian,,,1988,33
+289,Pan,,Anita,Manish Dhale,ArchnaDhale,Rakesh Dhale,1989-05-23,Female,,10  Patrakar Colony  Tandalja Road  Tandalja Road Vadodara  Gujarat  390015,,"10, Patrakar Colony, Tandalja Road, Tandalja Road Vadodara, Gujarat, 390015",AARXZ7598T,606823052263,0,0,,0,,Indian,,,1989,32
+290,Pan,,Anita Dhale,Manish Dhale,Archna Dhale,Rakesh Dhale,1989-05-23,Female,,"Phase 5 Block A  Vanijya Nikunj Enkay Tower
+Delhi  Haryana  122001",,"Phase 5 Block A, Vanijya Nikunj Enkay Tower
+Delhi, Haryana, 122001",QADXS1754K,606682362263,0,0,,0,,Indian,,,1989,32
+291,Pan,,Vishal,Shailesh Sharma,Sania Sharma,NiharikaSharma,1986-04-21,Male,,"111 Pettah Jn  Anayara Road  Pettah Junction
+Trivandrum  Kerala  695024",,"111,Pettah Jn, Anayara Road, Pettah Junction
+Trivandrum, Kerala, 695024",MYTCU7126O,967296455261,0,0,,0,,Indian,,,1986,35
+292,Pan,,Vishal Sharma,Shailesh Sharma,Sania Sharma,NiharikaSharma,1986-04-21,Male,,"16  Amar Stambh  Zone I MP Nagar
+Bhopal  Madhya Pradesh  462016",,"16, Amar Stambh, Zone-I,MP Nagar
+Bhopal, Madhya Pradesh, 462016",NPLKU5423P,967202129656,0,0,,0,,Indian,,,1986,35
+293,Pan,,Sikha,Anuj Rathor,Renu Rathor,NavjotRathor,1988-07-24,Female,,102 Truck Parking  AB Rd  Nr Ckd Dhaba  Dewas Naka Indore  Madhya Pradesh  452001,,"102 Truck Parking, AB Rd, Nr Ckd Dhaba, Dewas Naka,Indore, Madhya Pradesh, 452001",LUTVB5486M,697761941359,0,0,,0,,Indian,,,1988,33
+294,Pan,,Sikha Rathor,Anuj Rathor,Renu Rathor,NavjotRathor,1988-07-24,Female,,"1/40 A  Ram Bazar  Kashmere Gate
+Delhi  Delhi  110006",,"1/40 A, Ram Bazar, Kashmere Gate
+Delhi, Delhi, 110006",STVAZ7895T,697761541389,0,0,,0,,Indian,,,1988,33
+295,Pan,,Anju,Mahendra Singh,Abhilasha Singh,Ravi Singh,1989-05-23,Female,,P2  Awadh Puri  Opposite Ram Mandir  Lalkothi Jaipur  Rajasthan  302001,,"P2, Awadh Puri, Opposite Ram Mandir, Lalkothi,Jaipur, Rajasthan, 302001",CHGBN7849K,686823052268,0,0,,0,,Indian,,,1989,32
+296,Pan,,Anju Singh,Mahendra Singh,Abhilasha Singh,Ravi Singh,1989-05-23,Female,,"59/1  Govindappa Naicken St  Parrys
+Chennai  Tamil Nadu  600001",,"59/1, Govindappa Naicken St, Parrys
+Chennai, Tamil Nadu, 600001",QASGJ9754K,676682362265,0,0,,0,,Indian,,,1989,32
+297,Pan,,Vaasu,Satish Shirke,Sunita Shirke,Nirja Shirke,1986-05-21,Male,,"Plot No 51 A  Ranjana Enclav  Pandey Layout
+Nagpur  Maharashtra  440425",,"Plot No-51 A, Ranjana Enclav, Pandey Layout
+Nagpur, Maharashtra, 440425",MYTZU7155H,967200055261,0,0,,0,,Indian,,,1986,35
+298,Pan,,Vaasu Shirke,Satish Shirke,Sunita Shirke,Nirja Shirke,1986-05-21,Male,,"67/2  Oberoi House Nal  Karve Road  Paud Road
+Pune  Maharashtra  411004",,"67/2, Oberoi House Nal, Karve Road, Paud Road
+Pune, Maharashtra, 411004",NPLKD5428P,900202129650,0,0,,0,,Indian,,,1986,35
+299,Pan,,Shivani,Aniket Rathor,Rekha Rathor,NovalRathor,1986-08-24,Female,,B 89  New Vishwakarma Nagar  Street No 1  Focal Point Ludhiana  Punjab  141010,,"B,89, New Vishwakarma Nagar, Street No 1, Focal Point Ludhiana, Punjab, 141010",KXTVB2686M,690761941350,0,0,,0,,Indian,,,1986,35
+300,Pan,,Shivani Rathor,Aniket Rathor,Rekha Rathor,NovalRathor,1986-08-24,Female,,"Apeksha Apartment  401  Opp Indian Oil Depot  Section 11
+Udaipur  Rajasthan  313001",,"Apeksha Apartment, 401, Opp Indian Oil Depot, Section 11
+Udaipur, Rajasthan, 313001",YTVAZ0995T,600761541380,0,0,,0,,Indian,,,1986,35
+301,Pan,,Aakriti,Mohit Sonar,Aabhas Sonar,RajeevSonar,1988-05-23,Female,,120 Okay PLUS House  Kiran Path  Suraj Nagar West  Civil LinesJaipur  Rajasthan  302006,,"120,Okay PLUS House, Kiran Path, Suraj Nagar West, Civil LinesJaipur, Rajasthan, 302006",OHGBN0849K,680003052268,0,0,,0,,Indian,,,1988,33
+302,Pan,,Aakriti Sonar,Mohit Sonar,Aabhas Sonar,RajeevSonar,1988-05-23,Female,,"47 guru Nanak Motor Mkt  Opp novelty Cinema  Chowpatty
+Mumbai  Maharashtra  407707",,"47,guru Nanak Motor Mkt, Opp.novelty Cinema, Chowpatty
+Mumbai, Maharashtra, 407707",QJSGJ9654J,676682360065,0,0,,0,,Indian,,,1988,33
+303,Pan,,Daksh,Sushil Thakkar,Savita Thakkar,Niharika Thakkar,1986-06-21,Male,,8/9  Shreeji Estate  Veraval Main Rd  Opp Sumangal Casting  SIDC Rd  Veraval Rajkot  Gujarat  360005,,"8/9, Shreeji Estate, Veraval Main Rd, Opp Sumangal Casting, SIDC Rd, Veraval Rajkot, Gujarat, 360005",TZUMY4572B,567205055261,0,0,,0,,Indian,,,1986,35
+304,Pan,,Daksh Thakkar,Sushil Thakkar,Savita Thakkar,Niharika Thakkar,1986-06-21,Male,,117  Navrangpura Cross Road  Opp Jain Temple  Navrangpura Ahmedabad  Gujarat  380009,,"117, Navrangpura Cross Road, Opp Jain Temple, Navrangpura Ahmedabad, Gujarat, 380009",LKDNP7427P,230202129650,0,0,,0,,Indian,,,1986,35
+305,Pan,,Jyoti,Ankit Choubey,Rekha Choubey,NileshChoubey,1986-09-24,Female,,B 33  Site   1  B S Road Indl Area  Kanpur  Uttar Pradesh  201001,,"B 33, Site - 1, B S Road Indl Area ,Kanpur, Uttar Pradesh, 201001",XTVKB7421K,290761941352,0,0,,0,,Indian,,,1986,35
+306,Pan,,Jyoti Choubey,Ankit Choubey,Rekha Choubey,NileshChoubey,1986-09-24,Female,,49  Sarvodaya Indust est   Mahakali Caves Rd   Andheri (west)Mumbai  Maharashtra  400093,,"49, Sarvodaya Indust.est., Mahakali Caves Rd., Andheri (west)Mumbai, Maharashtra, 400093",TVAYZ3995T,200761541382,0,0,,0,,Indian,,,1986,35
+307,Pan,,Pooja,Mahipal Sonar,Abhilasha Sonar,Rajiv Sonar,1988-05-14,Female,,13/17  4th Floor  Kanchan Bhawan  Dadiseth Agiary Lane  Kalbadevi Mumbai  Maharashtra  400002,,"13/17, 4th Floor, Kanchan Bhawan, Dadiseth Agiary Lane, Kalbadevi Mumbai, Maharashtra, 400002",HGBON7849S,780003052267,0,0,,0,,Indian,,,1988,33
+308,Pan,,Pooja Sonar,Mahipal Sonar,Abhilasha Sonar,Rajiv Sonar,1988-05-14,Female,,9  Comercial Centre  Dda Market  Yusuf Sarai Delhi  Delhi  110049,,"9, Comercial Centre, Dda Market, Yusuf Sarai Delhi, Delhi, 110049",JSGQJ6654J,776682360067,0,0,,0,,Indian,,,1988,33
+309,Pan,,Ranvir,Surendra Thakkar,Sarita Thakkar,Neelu Thakkar,1986-02-21,Male,,Plot No 25  Institutional Area Sector   32 Gurgaon   122001 ,,"Plot No 25, Institutional Area,Sector - 32 Gurgaon - 122001.",DYUMY3572Y,347205055261,0,0,,0,,Indian,,,1986,35
+310,Pan,,Ranvir Thakkar,Surendra Thakkar,Sarita Thakkar,Neelu Thakkar,1986-02-21,Male,,"12 169/a  Adarshnagar
+Hyderabad  Andhra Pradesh  500037",,"12-169/a, Adarshnagar
+Hyderabad, Andhra Pradesh, 500037",DTDNP5027T,340202129650,0,0,,0,,Indian,,,1986,35
+311,Pan,,Asmita,Anurudh Keshwa,Rakhi Keshwa,RajvirKeshwa,1986-09-24,Female,,38  Avishkar Complex  Old Padra Road  Old Padra Road Vadodara  Gujarat  390015,,"38, Avishkar Complex, Old Padra Road, Old Padra Road,Vadodara, Gujarat, 390015",DVVKB7446V,340761941352,0,0,,0,,Indian,,,1986,35
+312,Pan,,Asmita Keshwa,Anurudh Keshwa,Rakhi Keshwa,RajvirKeshwa,1986-09-24,Female,,"108/110  1st Floor  Fort Market  Mint Road  Fort
+Mumbai  Maharashtra  400001",,"108/110, 1st Floor, Fort Market, Mint Road, Fort
+Mumbai, Maharashtra, 400001",DZAYZ6995Z,340761541382,0,0,,0,,Indian,,,1986,35
+313,Pan,,Beena,Mahesh Samuel,Asmita Samuel,Krishan Samuel,1988-05-24,Female,,"461  Apmc Mkt   1  central Facility Bldg No  Phase 2  Sector 19  Vashi  Navi Mumbai
+Mumbai  Maharashtra  400705",,"461, Apmc Mkt - 1 ,central Facility Bldg No, Phase 2, Sector 19, Vashi, Navi Mumbai
+Mumbai, Maharashtra, 400705",DGBON3849G,340003052267,0,0,,0,,Indian,,,1988,33
+314,Pan,,Beena Samuel,Mahesh Samuel,Asmita Samuel,Krishan Samuel,1988-05-24,Female,,"1st Flr  100  Elphiston Bldg  V N Road  Fort
+Mumbai  Maharashtra  400001",,"1st Flr, 100, Elphiston Bldg, V N Road, Fort
+Mumbai, Maharashtra, 400001",DFGQJ6684F,346682360067,0,0,,0,,Indian,,,1988,33
+315,Pan,,Rishi,JitendraVariava,Sarita Variava,Kamna Variava,1986-02-21,Male,,1301 Maa Enrich Jangla Nagar Jitendra Road Dayabhai Patel Road Near Bank of Maharashtra Malad West Mumabi 400097,,"1301,Maa Enrich,Jangla Nagar Jitendra Road,Dayabhai Patel Road,Near Bank of Maharashtra,Malad West,Mumabi-400097",KLOPI4769L,292778198213,0,0,,0,,Indian,,,1986,35
+316,Pan,,Rishi Variava,JitendraVariava,Sarita Variava,Kamna Variava,1986-02-21,Male,,D no:6 3 1085  Beside Digital Tv Showroom  R B Road Hyderabad  Andhra Pradesh  500082,,"D.no:6-3-1085, Beside Digital Tv Showroom, R B Road Hyderabad, Andhra Pradesh, 500082",KDRNP5627R,700202129650,0,0,,0,,Indian,,,1986,35
+317,Pan,,Riddhi,JitendraVariava,Rakhi Variava,RajvirVariava,1986-09-24,Female,,"204  Nimbalkar Chambers  Kharivav Road  Dandia Bazar
+Vadodara  Gujarat  390001",,"204, Nimbalkar Chambers, Kharivav Road, Dandia Bazar
+Vadodara, Gujarat, 390001",KLJUY5872K,840175897308,0,0,,0,,Indian,,,1986,35
+318,Pan,,Riddhi Variava,JitendraVariava,Rakhi Variava,RajvirVariava,1986-09-24,Female,,"4th Floor  Gandhi Palace  Nr Jain Derasar  B/h On Off Showroom  Timaliyawad  Nanpura
+Surat  Gujarat  395001",,"4th Floor, Gandhi Palace, Nr Jain Derasar, B/h On-Off Showroom, Timaliyawad, Nanpura
+Surat, Gujarat, 395001",AYZDZ0695Z,700761541382,0,0,,0,,Indian,,,1986,35
+319,Pan,,Vrushti Limbachiya,Mahesh Limbachiya,Riddhi Limbachiya,Krishan Limbachiya,1988-05-24,Female,,205  Hari Om Nagar Sector 21  Plot No 8  Kharghar Navi Mumbai  Maharashtra  410210,,"205, Hari Om Nagar Sector 21, Plot No 8, Kharghar Navi Mumbai, Maharashtra, 410210",KYHGT6325H,824223252628,0,0,,0,,Indian,,,1988,33
+320,Pan,,Vrushti Limbachiya,Mahesh Limbachiya,Riddhi Limbachiya,Krishan Limbachiya,1988-05-24,Female,,Mafatlal Baug  G French Bridge  Opp  Vijay Bk   Gamdevi Mumbai  Maharashtra  400007,,"Mafatlal Baug, G French Bridge, Opp. Vijay Bk., Gamdevi,Mumbai, Maharashtra, 400007",GQJDF6084F,706682360067,0,0,,0,,Indian,,,1988,33
+321,Pan,,Janhit,Chandrapal Variava,Sarita Variava,Khushi Variava,1986-02-27,Male,,12  1st Fl  174  Gold Mohur  Princess Street  Chira Bazar Mumbai  Maharashtra  400002,,"12, 1st Fl, 174, Gold Mohur, Princess Street, Chira Bazar Mumbai, Maharashtra, 400002",HTYRN5862H,742778198213,0,0,,0,,Indian,,,1986,35
+322,Pan,,Janhit Variava,Chandrapal Variava,Sarita Variava,Khushi Variava,1986-02-27,Male,,"2 New Modella Indus Estate  Wagle Estate  Wagle Industrial Estate
+Mumbai  Maharashtra  400604",,"2 New Modella Indus Estate, Wagle Estate, Wagle Industrial Estate
+Mumbai, Maharashtra, 400604",HJRNP5827J,640202129650,0,0,,0,,Indian,,,1986,35
+323,Pan,,Sarika,Dinesh Sharma,Shilpa Sharma,Manoj Sharma,1989-09-24,Female,,"56/333  Mahavir Chmbs  Samuel Street  Nagdevi
+Mumbai  Maharashtra  400003",,"56/333, Mahavir Chmbs, Samuel Street, Nagdevi
+Mumbai, Maharashtra, 400003",HLJUY8272K,740175897374,0,0,,0,,Indian,,,1989,32
+324,Pan,,Sarika Sharma,Dinesh Sharma,Shilpa Sharma,Manoj Sharma,1989-09-24,Female,,"4  4  Shivnandan Complex  Jayhind Cross Road  Maninagar
+Ahmedabad  Gujarat  380008",,"4, 4, Shivnandan Complex, Jayhind Cross Road, Maninagar
+Ahmedabad, Gujarat, 380008",HYZDZ4695Z,640761541382,0,0,,0,,Indian,,,1989,32
+325,Pan,,Vaishali Limbachiya,Srikant Limbachiya,Arpita Limbachiya,Chetan Limbachiya,1990-05-24,Female,,1  Jawahar Kunj  Daftari Road  Shivaji Chowk No 2  Malad (east)Mumbai  Maharashtra  400097,,"1, Jawahar Kunj, Daftari Road, Shivaji Chowk No-2, Malad (east)Mumbai, Maharashtra, 400097",HYHGT6825K,744223252674,0,0,,0,,Indian,,,1990,31
+326,Pan,,Vaishali Limbachiya,Srikant Limbachiya,Arpita Limbachiya,Chetan Limbachiya,1990-05-24,Female,,"107  70  71  Scindia House  Bharat Chamber  Connaught Place
+Delhi  Delhi  110001",,"107, 70- 71, Scindia House, Bharat Chamber, Connaught Place
+Delhi, Delhi, 110001",HQJDF6384F,646682360067,0,0,,0,,Indian,,,1990,31
+327,Pan,,Manoj,Vivek Mathur,Anjli Mathur,Megha Mathur,1986-02-27,Male,,"911  Tulsiani Chambers  Nariman Point
+Mumbai  Maharashtra  400021",,"911, Tulsiani Chambers, Nariman Point
+Mumbai, Maharashtra, 400021",ATVRN2872V,432778198211,0,0,,0,,Indian,,,1986,35
+328,Pan,,Manoj Mathur,Vivek Mathur,Anjli Mathur,Megha Mathur,1986-02-27,Male,,1  Sheikh Sarai Phase 1  Dda Market  Malviya Nagar Delhi  Delhi  110017,,"1, Sheikh Sarai Phase 1, Dda Market, Malviya Nagar Delhi, Delhi, 110017",ATRNP4827T,432202129650,0,0,,0,,Indian,,,1986,35
+329,Pan,,Sarika,Deepak Jain,Rekha Jain,Manoj Jain,1989-09-24,Female,,"79  M G Road  Raja Rammohan Roy Srn
+Kolkata  West Bengal  700009",,"79, M G Road, Raja Rammohan Roy Srn
+Kolkata, West Bengal, 700009",AXJUY3572X,432175897374,0,0,,0,,Indian,,,1989,32
+330,Pan,,Sarika Jain,Deepak Jain,Rekha Jain,Manoj Jain,1989-09-24,Female,,Jayanand Soc   Naupada  Opp  Times Of India   Thane (west)Mumbai  Maharashtra  400602,,"Jayanand Soc., Naupada, Opp. Times Of India., Thane (west)Mumbai, Maharashtra, 400602",AXZDZ4695X,432761541382,0,0,,0,,Indian,,,1989,32
+331,Pan,,Vaishali Verma,Srikant Verma,Arpita Verma,Chetan Verma,1991-07-26,Female,,"149/1  M K Hardware  H Cross Sampige Main Road  Opp Dhanalakshmi Silks  Malleshwaram
+Bangalore  Karnataka  560003",,"149/1, M K Hardware, H Cross Sampige Main Road, Opp Dhanalakshmi Silks, Malleshwaram
+Bangalore, Karnataka, 560003",AZHGT8825Z,432223252674,0,0,,0,,Indian,,,1991,30
+332,Pan,,Vaishali Verma,Srikant Verma,Arpita Verma,Chetan Verma,1991-07-26,Female,,6/8  2nd floor  Navbharat Hse  Burjorji Bharucha Marg  Kala Ghoda  FortMumbai  Maharashtra  400001,,"6/8, 2nd floor, Navbharat Hse, Burjorji Bharucha Marg, Kala Ghoda, FortMumbai, Maharashtra, 400001",AZJDF7384A,432682360067,0,0,,0,,Indian,,,1991,30
+333,Pan,,Akash,Vivek Verma,Anjli Verma,Meghna Verma,1987-02-27,Male,,"56  1st Floor  Ahmed Oomerbhai Bldg   D 'silva Road  Dadar (west)
+Mumbai  Maharashtra  400028",,"56, 1st Floor, Ahmed Oomerbhai Bldg., D 'silva Road, Dadar (west)
+Mumbai, Maharashtra, 400028",NTGRN4521V,432778198536,0,0,,0,,Indian,,,1987,34
+334,Pan,,Akash Verma,Vivek Verma,Anjli Verma,Meghna Verma,1987-02-27,Male,,"A 23  Ashok Vihar
+Delhi  Delhi  110052",,"A 23, Ashok Vihar
+Delhi, Delhi, 110052",NTCNP4827T,432202129536,0,0,,0,,Indian,,,1987,34
+335,Pan,,Priyanka,Deepak Jain,Rekha Jain,Nitin Jain,1984-09-24,Female,,"53  Mukhram Kanoria Road  Howrah Maidan
+Kolkata  West Bengal  711101",,"53, Mukhram Kanoria Road, Howrah Maidan
+Kolkata, West Bengal, 711101",NXZUY3572X,432175897536,0,0,,0,,Indian,,,1984,37
+336,Pan,,Priyanka Jain,Deepak Jain,Rekha Jain,Nitin Jain,1984-09-24,Female,,"359  Hagel House  Military Road  Marol  Andheri(e)
+Mumbai  Maharashtra  400069",,"359, Hagel House, Military Road, Marol, Andheri(e)
+Mumbai, Maharashtra, 400069",NTVDZ4695X,432761541536,0,0,,0,,Indian,,,1984,37
+337,Pan,,Tanu Verma,Srikant Verma,Arpita Verma,Dev Verma,1995-07-26,Female,,"710 Nr Hira Monica Marriage H  Opp Sheesh Mahal Apt  Ulhasnagar
+Mumbai  Maharashtra  421002",,"710,Nr Hira Monica Marriage H, Opp Sheesh Mahal Apt, Ulhasnagar
+Mumbai, Maharashtra, 421002",NTFGT8825Z,432223252536,0,0,,0,,Indian,,,1995,26
+338,Pan,,Tanu Verma,Srikant Verma,Arpita Verma,Dev Verma,1995-07-26,Female,,Air India Modern High School  Kalina  Air India Housing Colony No 1  Santacruz (e)Mumbai  Maharashtra  400098,,"Air India Modern High School, Kalina, Air India Housing Colony No 1, Santacruz (e)Mumbai, Maharashtra, 400098",NTDDF7384A,432682360536,0,0,,0,,Indian,,,1995,26
+339,Pan,,Aakshit,Kapil Verma,Sushma Verma,Megha Verma,1985-02-27,Male,,"D 9  Shah Ind Area  New Chandra  Veera Desai Rd  Opp Kolsite Ind  Andheri(w)
+Mumbai  Maharashtra  400053",,"D-9, Shah Ind Area, New Chandra, Veera Desai Rd, Opp Kolsite Ind, Andheri(w)
+Mumbai, Maharashtra, 400053",OLKIU2351P,612578198536,0,0,,0,,Indian,,,1985,36
+340,Pan,,Aakshit Verma,Kapil Verma,Sushma Verma,Megha Verma,1985-02-27,Male,,"79  Raju Naidu Road  Gandhipuram
+Coimbatore  Tamil Nadu  641012",,"79, Raju Naidu Road, Gandhipuram
+Coimbatore, Tamil Nadu, 641012",OLCNP4827T,612502129536,0,0,,0,,Indian,,,1985,36
+341,Pan,,Pankaj,Dilip Jain,Rekha Jain,Archna Jain,1984-09-21,Male,,"B/3/9  Rajhansa Soceity  Near Best Depot  Ghatkoper (east)
+Mumbai  Maharashtra  400075",,"B/3/9, Rajhansa Soceity, Near Best Depot, Ghatkoper (east)
+Mumbai, Maharashtra, 400075",OMKYH4753K,612475897536,0,0,,0,,Indian,,,1984,37
+342,Pan,,Pankaj Jain,Dilip Jain,Rekha Jain,Archna Jain,1984-09-21,Male,,"Old 142 new 74 latice Bridge Roa  Dr muthulakshmi Salai l b road
+Chennai  Tamil Nadu  600041",,"Old.142,new.74,latice Bridge Roa, Dr.muthulakshmi Salai,l.b.road
+Chennai, Tamil Nadu, 600041",OMVDZ6695X,612761541561,0,0,,0,,Indian,,,1984,37
+343,Pan,,Abhinash Verma,Suraj Verma,Arpita Verma,Deepika Verma,1995-07-21,Male,,"Room No 152  5  Ashirwad Indl estate  Ram Mandir Road  Goregaon (west)
+Mumbai  Maharashtra  400104",,"Room No.152, 5, Ashirwad Indl.estate, Ram Mandir Road, Goregaon (west)
+Mumbai, Maharashtra, 400104",OBGHT7536J,612223252537,0,0,,0,,Indian,,,1995,26
+344,Pan,,Abhinash Verma,Suraj Verma,Arpita Verma,Deepika Verma,1995-07-21,Male,,"134  Albert Victor Road  Kalasipalyam
+Bangalore  Karnataka  560002",,"134, Albert Victor Road, Kalasipalyam
+Bangalore, Karnataka, 560002",OBDDF7384A,612682360534,0,0,,0,,Indian,,,1995,26
+345,Pan,,Vivek,Anil Verma,Rani Verma,Soni Verma,1984-01-21,Male,,678/2 Chak Raghunath  Jhilmil Colony Naini  Allahabad 211001,,"678/2 Chak Raghunath, Jhilmil Colony Naini, Allahabad 211001",QAKIU2351P,702578198536,0,0,,0,,Indian,,,1984,37
+346,Pan,,Vivek Verma,Anil Verma,Rani Verma,Soni Verma,1984-01-21,Male,,677/524 G T Road  Bahadurganj Qudsia Manzbahadurganjcru  Allahabad,,"677/524 G T Road, Bahadurganj Qudsia Manzbahadurganjcru, Allahabad",KPCNP4827T,702502129536,0,0,,0,,Indian,,,1984,37
+347,Pan,,Rajiv,Vijay Jain,Rekha Jain,Archna Jain,1984-09-17,Male,,671a  Railway Quarter  Nyrd10thavenue  Cto  Allahabad  211001,,"671a, Railway Quarter, Nyrd10thavenue, Cto, Allahabad, 211001",RTKYH4753K,702475897536,0,0,,0,,Indian,,,1984,37
+348,Pan,,Rajiv Jain,Vijay Jain,Rekha Jain,Archna Jain,1984-09-17,Male,,67/65  Sulem Sarai  Gtrdjayantipur  Sherwani More Sulem Sarai  Allahabad  211001,,"67/65, Sulem Sarai, Gtrdjayantipur, Sherwani More Sulem Sarai, Allahabad, 211001",TYVDZ6695X,702761541561,0,0,,0,,Indian,,,1984,37
+349,Pan,,Ankur Verma,Suraj Verma,Piryali Verma,Leela Verma,1995-07-14,Male,,67a/78  Hewat Road  Heardlinehs  Ocb Xge  Allahabad  211001,,"67a/78, Hewat Road, Heardlinehs, Ocb Xge, Allahabad, 211001",IOGHT7536J,702223252537,0,0,,0,,Indian,,,1995,26
+350,Pan,,Ankur Verma,Suraj Verma,Piryali Verma,Leela Verma,1995-07-14,Male,,67  Type3 Sangam Irwo Vatika  Deoprayagam Scheem Jhalwjhalwa  Allahabad  211001,,"67, Type3 Sangam Irwo Vatika, Deoprayagam Scheem Jhalwjhalwa, Allahabad, 211001",PADDF7384A,702682360534,0,0,,0,,Indian,,,1995,26
+351,Pan,,Amar,Babalu Tapkire,Rani Tapkire,Meenu Tapkire,1984-01-21,Male,,"1195/6 A Fergusson Col  Tukaram Padulka Cho
+Pune  Maharashtra  411005",,"1195/6 A Fergusson Col, Tukaram Padulka Cho
+Pune, Maharashtra, 411005",MNBVC3678M,702578198248,0,0,,0,,Indian,,,1984,37
+352,Pan,,Amar Tapkire,Babalu Tapkire,Rani Tapkire,Meenu Tapkire,1984-01-21,Male,,"Vinayak Co op Soc  Rambhan Mhalgi Marg  Chendani  Thane (e)
+Mumbai  Maharashtra  400603",,"Vinayak Co-op Soc, Rambhan Mhalgi Marg, Chendani, Thane (e)
+Mumbai, Maharashtra, 400603",NBVCX4783N,702502124836,0,0,,0,,Indian,,,1984,37
+353,Pan,,Amit,Vijay Gupta,Sushila Gupta,Laxmi Gupta,1984-09-17,Male,,"67  Hemu Classic Bldg  S V Road  Opp New Era Cinema  Malad (west)
+Mumbai  Maharashtra  400064",,"67, Hemu Classic Bldg, S V Road, Opp New Era Cinema, Malad (west)
+Mumbai, Maharashtra, 400064",VCXZL6542X,702475894826,0,0,,0,,Indian,,,1984,37
+354,Pan,,Amit Gupta,Vijay Gupta,Sushila Gupta,Laxmi Gupta,1984-09-17,Male,,"1  B/h Meghdoot Hotel  Sarangpur
+Ahmedabad  Gujarat  380402",,"1, B/h Meghdoot Hotel, Sarangpur
+Ahmedabad, Gujarat, 380402",VXVDZ3695X,704861541561,0,0,,0,,Indian,,,1984,37
+355,Pan,,Shubham Tapkire,Ankit Tapkire,Payal Tapkire,Lalita Tapkire,1995-08-14,Male,,"10  Konkan Nagar  Hit Niketan J M Rd  Bhandup
+Mumbai  Maharashtra  400078",,"10, Konkan Nagar, Hit Niketan J M Rd, Bhandup
+Mumbai, Maharashtra, 400078",ZLKJH6841L,704823252537,0,0,,0,,Indian,,,1995,26
+356,Pan,,Shubham Tapkire,Ankit Tapkire,Payal Tapkire,Lalita Tapkire,1995-08-14,Male,,"6/2  8th Cross  Sudhamanagar
+Bangalore  Karnataka  560027",,"6/2, 8th Cross, Sudhamanagar
+Bangalore, Karnataka, 560027",KJDDF9384L,702682360548,0,0,,0,,Indian,,,1995,26
+357,Pan,,Atul,Balvir Tapkire,Rajkumari Tapkire,Sarika Tapkire,1984-01-21,Male,,"145 Fergusson Col  Tukaram Padulka Cho
+Pune  Maharashtra  411005",,"145 Fergusson Col, Tukaram Padulka Cho
+Pune, Maharashtra, 411005",MNBVC7691K,732578198241,0,0,,0,,Indian,,,1984,37
+358,Pan,,Atul Tapkire,Balvir Tapkire,Rajkumari Tapkire,Sarika Tapkire,1984-01-21,Male,,"053 A Wing Vinayak Co op Soc  Rambhan Mhalgi Marg  Chendani  Thane (e)
+Mumbai  Maharashtra  400603",,"053 A Wing Vinayak Co-op Soc, Rambhan Mhalgi Marg, Chendani, Thane (e)
+Mumbai, Maharashtra, 400603",NBVCX5783K,732502124833,0,0,,0,,Indian,,,1984,37
+359,Pan,,Ankit,Vijay Gupta,Sikha Gupta,Nilam Gupta,1984-09-17,Male,,"475  S V Road  Opp New Era Cinema  Malad (west)
+Mumbai  Maharashtra  400064",,"475  S V Road, Opp New Era Cinema, Malad (west)
+Mumbai, Maharashtra, 400064",VCXZL4721J,742475894824,0,0,,0,,Indian,,,1984,37
+360,Pan,,Ankit Gupta,Vijay Gupta,Sikha Gupta,Nilam Gupta,1984-09-17,Male,,"H NO 11 Near Meghdoot Hotel  Sarangpur
+Ahmedabad  Gujarat  380402",,"H NO 11 Near Meghdoot Hotel, Sarangpur
+Ahmedabad, Gujarat, 380402",VJVDZ3036J,744861541564,0,0,,0,,Indian,,,1984,37
+361,Pan,,Kapil Tapkire,Ankit Tapkire,Priynka Tapkire,Leelawati Tapkire,1995-08-14,Male,,"101  Konkan Nagar J M Rd  Bhandup
+Mumbai  Maharashtra  400078",,"101, Konkan Nagar,J M Rd, Bhandup
+Mumbai, Maharashtra, 400078",ZLKJH6070H,744823252534,0,0,,0,,Indian,,,1995,26
+362,Pan,,Kapil Tapkire,Ankit Tapkire,Priynka Tapkire,Leelawati Tapkire,1995-08-14,Male,,"8th floor 45 B wing Sudhamanagar
+Bangalore  Karnataka  560027",,"8th floor 45 B wing Sudhamanagar
+Bangalore, Karnataka, 560027",KJDDF9054H,742682360544,0,0,,0,,Indian,,,1995,26
+363,Pan,,Abhishek,Kapil Soni,Jaidevi Soni,Pooja Soni,1984-04-21,Male,,214  Ahata Meer Bukhari  Asaf Ali Road  Darya GanjDelhi  Delhi  110002,,"214, Ahata Meer Bukhari, Asaf Ali Road, Darya GanjDelhi, Delhi, 110002",BVCMN2491K,712278198241,0,0,,0,,Indian,,,1984,37
+364,Pan,,Abhishek Soni,Kapil Soni,Jaidevi Soni,Pooja Soni,1984-04-21,Male,,608 b  Shanti Prabhat Indl Cplx  Dahisar Mumbai  Maharashtra  400068,,"608-b, Shanti Prabhat Indl Cplx, Dahisar Mumbai, Maharashtra, 400068",VCXNB5183K,712202124833,0,0,,0,,Indian,,,1984,37
+365,Pan,,Neeraj,Akash Gupta,Piriti Gupta,Nilam Gupta,1989-09-17,Male,,"46 Anusuya Apt  Nr National Dairy opp Rly  Bhayander (east)
+Mumbai  Maharashtra  401105",,"46 Anusuya Apt, Nr National Dairy,opp Rly, Bhayander (east)
+Mumbai, Maharashtra, 401105",XZLVC3721J,712575894824,0,0,,0,,Indian,,,1989,32
+366,Pan,,Neeraj Gupta,Akash Gupta,Piriti Gupta,Nilam Gupta,1989-09-17,Male,,A 294  New Subzi Mandi  Azadpur Delhi  Delhi  110033,,"A 294, New Subzi Mandi, Azadpur Delhi, Delhi, 110033",VDZVJ3536J,712561541564,0,0,,0,,Indian,,,1989,32
+367,Pan,,Adesh Soni,Neeraj Soni,Priynka Soni,Laveena Soni,1991-08-14,Male,,112  Guru Nanak Pura  Civil Lines Kapurthala  Punjab  141001,,"112, Guru Nanak Pura, Civil Lines Kapurthala, Punjab, 141001",KJHZL6170H,712323252534,0,0,,0,,Indian,,,1991,30
+368,Pan,,Adesh Soni,Neeraj Soni,Priynka Soni,Laveena Soni,1991-08-14,Male,,"3  Garg Complex  2nd Floor  Opp PWD Rest House  Nr Thapar University  Bhupindra Rd
+Patiala  Punjab  147001",,"3, Garg Complex, 2nd Floor, Opp PWD Rest House, Nr Thapar University, Bhupindra Rd
+Patiala, Punjab, 147001",DDFKJ7154H,712382360544,0,0,,0,,Indian,,,1991,30
+369,Pan,,Pooja,Kapil Soni,Mithla Soni,Abhishek Soni,1984-04-21,Female,,186e  Bhai Randhir Singh N Ludhiana  Punjab  141003,,"186e, Bhai Randhir Singh N Ludhiana, Punjab, 141003",BVCMN6341M,824278198241,0,0,,0,,Indian,,,1984,37
+370,Pan,,Pooja Soni,Kapil Soni,Mithla Soni,Abhishek Soni,1984-04-21,Female,,G 1  Race Course Tower  Race Course Vadodara  Gujarat  390007,,"G 1, Race Course Tower, Race Course Vadodara, Gujarat, 390007",VCXNB8351K,824202124833,0,0,,0,,Indian,,,1984,37
+371,Pan,,Niharika,Amit Gupta,Piriti Gupta,Jitendra Gupta,1989-09-17,Female,,Plot No 430A  Industrial Area  Phase II Chandigarh  Chandigarh  160002,,"Plot No 430A, Industrial Area, Phase II Chandigarh, Chandigarh, 160002",XZLVC2137J,824575894824,0,0,,0,,Indian,,,1989,32
+372,Pan,,Niharika Gupta,Amit Gupta,Piriti Gupta,Jitendra Gupta,1989-09-17,Female,,"35 Nutan Nursing Home  Bapubhai Vashi Rd  Vile Parle West (west)
+Mumbai  Maharashtra  400056",,"35 Nutan Nursing Home, Bapubhai Vashi Rd, Vile Parle West (west)
+Mumbai, Maharashtra, 400056",VDZVJ3635J,824561541564,0,0,,0,,Indian,,,1989,32
+373,Pan,,Kavita Soni,Rajendra  Soni,Priynka Soni,Lokesh Soni,1991-08-14,Female,,Plot No 6  Sec 23  Krishi Bazaar Mumbai  Maharashtra  400705,,"Plot No 6, Sec-23, Krishi Bazaar Mumbai, Maharashtra, 400705",KJHZL7061H,824323252534,0,0,,0,,Indian,,,1991,30
+374,Pan,,Kavita Soni,Rajendra  Soni,Priynka Soni,Lokesh Soni,1991-08-14,Female,,B 723  New Fruit Market  Azadpur Delhi  Delhi  110033,,"B-723, New Fruit Market, Azadpur Delhi, Delhi, 110033",DDFKJ5471H,824382360544,0,0,,0,,Indian,,,1991,30
+375,Pan,,Aadha,Kadam Soni,Aditi Soni,Karan Soni,1985-05-22,Female,,109/1  Jagrati Vihar Opp Anand Hospital  Garh Road  Meerut  Uttar pradesh  250004,,"109/1, Jagrati Vihar Opp Anand Hospital, Garh Road, Meerut, Uttar pradesh, 250004",GHJKL4973K,824008198240,0,0,,0,,Indian,,,1985,36
+376,Pan,,Aadha Soni,Kadam Soni,Aditi Soni,Karan Soni,1985-05-22,Female,,"109/1  Jagrati Vihar Tagore Nagar
+Mumbai  Maharashtra  404283",,"109/1, Jagrati Vihar Tagore Nagar
+Mumbai, Maharashtra, 404283",GTYUI4521T,800202124830,0,0,,0,,Indian,,,1985,36
+377,Pan,,Adya,Keshav Gupta,Ahana Gupta,Arvind Gupta,1990-10-17,Female,,H no 215 Radha nagar Kanker Khera Cantt Meerut 250001,,"H no 215 Radha nagar,Kanker Khera Cantt Meerut 250001",GRFHT6248G,800075894820,0,0,,0,,Indian,,,1990,31
+378,Pan,,Adya Gupta,Keshav Gupta,Ahana Gupta,Arvind Gupta,1990-10-17,Female,,B/3/11  3rd Floor  Vivina Shopping Centre  Opp Stn  Opp Platform No 6  Andheri (west),,"B/3/11, 3rd Floor, Vivina Shopping Centre, Opp Stn, Opp Platform No 6, Andheri (west)",GRFVJ3635F,824560001564,0,0,,0,,Indian,,,1990,31
+379,Pan,,Amrita Soni,Neterpal  Soni,Deeplata Soni,Khajit Soni,1991-08-14,Female,,"5 Manek Bhandari Compound  Jackeria Road  Malad (west)
+Mumbai  Maharashtra  400064",,"5 Manek Bhandari Compound, Jackeria Road, Malad (west)
+Mumbai, Maharashtra, 400064",EWQGA7362Q,801023252531,0,0,,0,,Indian,,,1991,30
+380,Pan,,Amrita Soni,Neterpal  Soni,Deeplata Soni,Khajit Soni,1991-08-14,Female,,214 / 8  Jogani Complex  Chunnabhatti Mumbai  Maharashtra  400022,,"214 / 8, Jogani Complex, Chunnabhatti Mumbai, Maharashtra, 400022",GQSKJ5471S,810382360540,0,0,,0,,Indian,,,1991,30
+381,Pan,,Kinjal,Ajay Soni,Mruthula Soni,Suraj Soni,1987-05-22,Female,,"60/60  Hughes Rd  N S Patkar Rd  Chowpatty
+Mumbai  Maharashtra  400007",,"60/60, Hughes Rd, N S Patkar Rd, Chowpatty
+Mumbai, Maharashtra, 400007",JKGHL5173K,681008198241,0,0,,0,,Indian,,,1987,34
+382,Pan,,Kinjal Soni,Ajay Soni,Mruthula Soni,Suraj Soni,1987-05-22,Female,,"39  S S Ind Estate  Rakhial
+Ahmedabad  Gujarat  380023",,"39, S S Ind Estate, Rakhial
+Ahmedabad, Gujarat, 380023",YUGTI3521T,681202124831,0,0,,0,,Indian,,,1987,34
+383,Pan,,Mrinal,Manohar Gupta,Savita Gupta,Kuldeep Gupta,1992-10-17,Female,,"No 18  Mission Street (North) near Preumal Koin Street
+Pondicherry  Kerala  605001",,"No 18, Mission Street (North) near Preumal Koin Street
+Pondicherry, Kerala, 605001",FHGRT5248G,670075894822,0,0,,0,,Indian,,,1992,29
+384,Pan,,Mrinal Gupta,Manohar Gupta,Savita Gupta,Kuldeep Gupta,1992-10-17,Female,,"4th Floor  DD Corner Stone  Kadavanthra
+Cochin  Kerala  682020",,"4th Floor, DD Corner Stone, Kadavanthra
+Cochin, Kerala, 682020",FVGRJ5635F,674560001562,0,0,,0,,Indian,,,1992,29
+385,Pan,,Ketki Soni,Kushal  Soni,Mohini Soni,Kundan Soni,1993-08-14,Female,,"110  Payal Complex  Nr Manubhai Tower
+Vadodara  Gujarat  390005",,"110, Payal Complex, Nr Manubhai Tower
+Vadodara, Gujarat, 390005",QGEWA6362Q,661023252533,0,0,,0,,Indian,,,1993,28
+386,Pan,,Ketki Soni,Kushal  Soni,Mohini Soni,Kundan Soni,1993-08-14,Female,,"78  Tolstoy Lane  Behind Scindia House  Connaught Place
+Delhi  Delhi  110001",,"78, Tolstoy Lane, Behind Scindia House, Connaught Place
+Delhi, Delhi, 110001",SKGQJ6476S,660382360543,0,0,,0,,Indian,,,1993,28
+387,Pan,,Depti,Arun Joel,Hema Joel,Amit Joel,1989-07-22,Female,,"78 B  Pandurang Nivas  Colaba Road  Opp 3rd Pasta Lane  Colaba
+Mumbai  Maharashtra  400005",,"78 B, Pandurang Nivas, Colaba Road, Opp 3rd Pasta Lane, Colaba
+Mumbai, Maharashtra, 400005",MAGHL4173K,631038198243,0,0,,0,,Indian,,,1989,32
+388,Pan,,Depti Joel,Arun Joel,Hema Joel,Amit Joel,1989-07-22,Female,,3 1 256  Sadanand Hotel  Kachiguda Hyderabad  Andhra Pradesh  500027,,"3-1-256, Sadanand Hotel, Kachiguda Hyderabad, Andhra Pradesh, 500027",MAGTI1521T,661202124836,0,0,,0,,Indian,,,1989,32
+389,Pan,,Rajani,Ram Gupta,Malti Gupta,Vijay Gupta,1992-11-17,Female,,"112  Luhadia Tower  D Scheme Ashok Marg
+Jaipur  Rajasthan  302001",,"112, Luhadia Tower, D-Scheme Ashok Marg
+Jaipur, Rajasthan, 302001",MSGRT6248G,666075894826,0,0,,0,,Indian,,,1992,29
+390,Pan,,Rajani Gupta,Ram Gupta,Malti Gupta,Vijay Gupta,1992-11-17,Female,,Okay PLUS House  Kiran Path  Suraj Nagar West  Civil Lines Jaipur  Rajasthan  302006,,"Okay PLUS House, Kiran Path, Suraj Nagar West, Civil Lines Jaipur, Rajasthan, 302006",MSGRJ8735F,666560061562,0,0,,0,,Indian,,,1992,29
+391,Pan,,Vishakha Sharma,Kapil  Sharma,Shilpa Sharma,Shiwam Sharma,1993-08-14,Female,,"136  3rd Floor  Sector 21c  Faridabad
+Delhi  Haryana  121001",,"136, 3rd Floor, Sector 21c, Faridabad
+Delhi, Haryana, 121001",MDEWA6162Q,661623252563,0,0,,0,,Indian,,,1993,28
+392,Pan,,Vishakha Sharma,Kapil  Sharma,Shilpa Sharma,Shiwam Sharma,1993-08-14,Female,,"8  Ekveera Shopping Centre  Kolshet Rd  Dhokali  Thane (west)
+Mumbai  Maharashtra  400607",,"78, Tolstoy Lane, Behind Scindia House, Connaught Place
+Delhi, Delhi, 110001",MDGQJ1476S,666382360543,0,0,,0,,Indian,,,1993,28
+393,Pan,,Khushi,Chandrapal Goyal,Seema Goyal,Ravindra Goyal,1982-10-11,Female,,4 /12 Triveni Nagar Cantt  Kanpur  Uttar Pradesh 208004,,4 /12 Triveni Nagar Cantt  Kanpur  Uttar Pradesh 208004,LQASD3482K,674038198244,0,0,,0,,Indian,,,1982,39
+394,Pan,,Khushi Goyal,Chandrapal Goyal,Seema Goyal,Ravindra Goyal,1982-10-11,Female,,52 nd Floor  India Square  India Motor Circle  Kutchery Road  Ajmer  Rajasthan 305001,,"52 nd Floor, India Square, India Motor Circle, Kutchery Road  Ajmer  Rajasthan 305001",LAGTI4521T,674202124836,0,0,,0,,Indian,,,1982,39
+395,Pan,,Mousam,Virjesh Gupta,Madhu Gupta,Kaviraj Gupta,1982-11-17,Female,,44  th Flr  Dluna Apts  L J X Road No  Mahim  Mumbai  Maharashtra 400016,,"44  th Flr, Dluna Apts, L J X Road No, Mahim  Mumbai  Maharashtra 400016",LDWAS6324J,673075894823,0,0,,0,,Indian,,,1982,39
+396,Pan,,Mousam Gupta,Virjesh Gupta,Madhu Gupta,Kaviraj Gupta,1982-11-17,Female,,Tower C  3rd Floor  DLF IT Park  Chandigarh  Chandigarh 160101,,"Tower-C, 3rd Floor, DLF IT Park  Chandigarh  Chandigarh 160101",LEGRJ6735F,673560061562,0,0,,0,,Indian,,,1982,39
+397,Pan,,Nisha Jain,Ketan  Jain,Rakhi Jain,Kapil Jain,1991-08-14,Female,,T 34 Stonedge Towers  3rd Floor  Ashok Nagar  Chennai  Tamil Nadu 600083,,"T-34 Stonedge Towers, 3rd Floor, Ashok Nagar  Chennai  Tamil Nadu 600083",LGAXC6472N,672623252562,0,0,,0,,Indian,,,1991,30
+398,Pan,,Nisha Jain,Ketan  Jain,Rakhi Jain,Kapil Jain,1991-08-14,Female,,96   Mangal Kunj  S V Road  Opp Indraprasth Shopping Centre  Borivli(w)  Mumbai 404092,,"96 , Mangal Kunj, S V Road, Opp Indraprasth Shopping Centre, Borivli(w)  Mumbai 404092",LGGQJ5476S,672382360543,0,0,,0,,Indian,,,1991,30
+399,Pan,,Arpita,Hemant Agarwal,Maya Agarwal,Nabh Agarwal,1983-10-13,Female,,11 vijaya Towers  A S Rao Nagar Hyderabad Andhra Pradesh 500062,,"11,vijaya Towers, A S Rao Nagar Hyderabad Andhra Pradesh 500062",XQASD5482K,674030008244,0,0,,0,,Indian,,,1983,38
+400,Pan,,Arpita Agarwal,Hemant Agarwal,Maya Agarwal,Nabh Agarwal,1983-10-13,Female,,Mrs Lata Tank  Emps 09/601  Thakur Village  Kandivli(e) Mumbai Maharashtra 400101,,"Mrs Lata Tank, Emps 09/601, Thakur Village, Kandivli(e) Mumbai Maharashtra 400101",XAGTI4525T,674200024836,0,0,,0,,Indian,,,1983,38
+401,Pan,,Hansika Garg,Balram Garg,Minakshi Garg,Rajiv Garg,1982-12-17,Female,,236 Ashirwad Ind Est  5 Ram Mandir Road  Motilal Nagar Mumbai  Maharashtra 400104,,"236 Ashirwad Ind Est, 5 Ram Mandir Road, Motilal Nagar Mumbai  Maharashtra 400104",XDWAS6354J,673000894823,0,0,,0,,Indian,,,1982,39
+402,Pan,,Hansika Garg,Balram Garg,Minakshi Garg,Rajiv Garg,1982-12-17,Female,,501  Opp Navjivan Press B/h Guj Vidypith Ahmedabad Gujarat 380014,,"Tower-C, 3rd Floor, DLF IT Park  Chandigarh  Chandigarh 160101",XEGRJ6705F,673560060062,0,0,,0,,Indian,,,1982,39
+403,Pan,,Himanshi Teotia,Nakul  Teotia,Rajeshwari Teotia,Himank Teotia,1991-07-14,Female,,331 332  Azad Market Delhi Delhi 110006,,"331-332, Azad Market Delhi Delhi 110006",XGAXC6072N,672000252562,0,0,,0,,Indian,,,1991,30
+404,Pan,,Himanshi Teotia,Nakul  Teotia,Rajeshwari Teotia,Himank Teotia,1991-07-14,Female,, 3b/4  Baji Apartment  Saibaba Nagar  Borivli(w) Mumbai Maharashtra 400092,," 3b/4, Baji Apartment, Saibaba Nagar, Borivli(w) Mumbai Maharashtra 400092",XGGQJ8476S,672000360543,0,0,,0,,Indian,,,1991,30
+405,Pan,,Mohan laal Yadav,S Sridhar Yadav,Ramkumari yadav,,1991-07-15,Male,,330 A b1   Dhanori  pune  411022,,"B 33, Site - 1, B S Road Indl Area,Aundh Pune-411008",ABC1234M,672000360544,0,0,,4047235367,mohan@gmail.com,Indian,,,1991,30
+406,Pan,yadav,Mohan laala,ramlal Yadav,Rajkumari yadav,,1991-07-15,Male,,330 A b1   Dhanori  pune  411023,,"B 33, Site - 1, B S Road Indl Area,Aundh Pune-411008",ABC1234z,672000334544,0,0,,4046789063,mohan@gmail.com,Indian,,,1991,30
+407,Pan,,Mohanlaal,S Sridhar Yadav,Ramkumari yadav,,1991-07-15,Male,,330 A b1   Dhanori  pune  411022,,"B 33, Site - 1, B S Road Indl Area,Aundh Pune-411008",ABC1234M,672000360544,0,0,,4047235367,mohan@gmail.com,Indian,,,1991,30
+408,Pan,yadav,Mohanlala,ramlal Yadav,Rajkumari yadav,,1991-07-15,Male,,330 A b1   Dhanori  pune  411023,,"B 33, Site - 1, B S Road Indl Area,Aundh Pune-411008",ABC1234z,672000334544,0,0,,4046789063,mohan@gmail.com,Indian,,,1991,30
